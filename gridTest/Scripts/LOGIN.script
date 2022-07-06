@@ -2,6 +2,7 @@
 Rem Script file
 Rem
 Option Explicit
+'login to problem script
 panelupdateenable(0)
 hostfieldputdata("USERNAME", 0, "jde")
 Hostscreensendkey("RIGHT TAB")

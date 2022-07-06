@@ -497,6 +497,42 @@
               <theme_appearance_name>__PrimaryButton</theme_appearance_name>
               <title>__cancelButton</title>
             </ajax_button>
+            <ajax_button>
+              <ajax_center>1</ajax_center>
+              <ajax_label_wrap_type>1</ajax_label_wrap_type>
+              <ajax_layout_allow_grow_x>2</ajax_layout_allow_grow_x>
+              <ajax_layout_allow_grow_y>2</ajax_layout_allow_grow_y>
+              <ajax_layout_allow_shrink_x>2</ajax_layout_allow_shrink_x>
+              <ajax_layout_allow_shrink_y>2</ajax_layout_allow_shrink_y>
+              <ajax_layout_left>5</ajax_layout_left>
+              <ajax_layout_top>7</ajax_layout_top>
+              <ajax_max_height>10</ajax_max_height>
+              <ajax_max_width>10</ajax_max_width>
+              <ajax_min_height>1</ajax_min_height>
+              <ajax_min_width>1</ajax_min_width>
+              <ajax_opacity>1</ajax_opacity>
+              <ajax_opts_common/>
+              <ajax_opts_layout>
+                <ajax_layout_left_not_empty/>
+                <ajax_layout_max_height_not_empty/>
+                <ajax_layout_max_width_not_empty/>
+                <ajax_layout_min_height_not_empty/>
+                <ajax_layout_min_width_not_empty/>
+                <ajax_layout_top_not_empty/>
+              </ajax_opts_layout>
+              <ajax_show>1</ajax_show>
+              <dimensions x="245" y="7" cx="20" cy="12"/>
+              <enable_expression/>
+              <field_flags/>
+              <help_text/>
+              <id>escape</id>
+              <script>messagebox(&quot;Escape&quot;, &quot;Escape key from button processed&quot;, 0,0)</script>
+              <send_key>38</send_key>
+              <shortcut>11</shortcut>
+              <string_send/>
+              <theme_appearance_name/>
+              <title>Escape Key</title>
+            </ajax_button>
           </controls>
           <dimensions x="46" y="55" cx="240" cy="699"/>
           <id>CONTAINER1</id>
@@ -539,41 +575,5 @@
       <include_panel>_FOOTER</include_panel>
       <scrollbars_type>1</scrollbars_type>
     </ajax_container>
-    <ajax_button>
-      <ajax_center>1</ajax_center>
-      <ajax_label_wrap_type>1</ajax_label_wrap_type>
-      <ajax_layout_allow_grow_x>2</ajax_layout_allow_grow_x>
-      <ajax_layout_allow_grow_y>2</ajax_layout_allow_grow_y>
-      <ajax_layout_allow_shrink_x>2</ajax_layout_allow_shrink_x>
-      <ajax_layout_allow_shrink_y>2</ajax_layout_allow_shrink_y>
-      <ajax_layout_left>85</ajax_layout_left>
-      <ajax_layout_top>626</ajax_layout_top>
-      <ajax_max_height>10</ajax_max_height>
-      <ajax_max_width>10</ajax_max_width>
-      <ajax_min_height>1</ajax_min_height>
-      <ajax_min_width>1</ajax_min_width>
-      <ajax_opacity>1</ajax_opacity>
-      <ajax_opts_common/>
-      <ajax_opts_layout>
-        <ajax_layout_left_not_empty/>
-        <ajax_layout_max_height_not_empty/>
-        <ajax_layout_max_width_not_empty/>
-        <ajax_layout_min_height_not_empty/>
-        <ajax_layout_min_width_not_empty/>
-        <ajax_layout_top_not_empty/>
-      </ajax_opts_layout>
-      <ajax_show>1</ajax_show>
-      <dimensions x="245" y="7" cx="20" cy="12"/>
-      <enable_expression/>
-      <field_flags/>
-      <help_text/>
-      <id>escape</id>
-      <script>messagebox(&quot;Escape&quot;, &quot;Escape key from button processed&quot;, 0,0)</script>
-      <send_key>38</send_key>
-      <shortcut>11</shortcut>
-      <string_send/>
-      <theme_appearance_name/>
-      <title>Escape Key</title>
-    </ajax_button>
   </controls>
 </panel>
