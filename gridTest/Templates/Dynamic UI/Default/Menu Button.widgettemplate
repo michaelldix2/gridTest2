@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?VersionInfo exeName="LegaSuite.exe" productName="lswb" exeVersion="8.3821.0.0" modelVersion="1.1" ?>
+<panel xmlns="http://www.seagullsoftware.com/schemas/legasuite/panel" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.seagullsoftware.com/schemas/legasuite/panel http://www.seagullsoftware.com/schemas/legasuite/webpagedefinition2_6.xsd">
+  <properties/>
+  <controls>
+    <ajax_button>
+      <ajax_center>1</ajax_center>
+      <ajax_layout_allow_grow_x>2</ajax_layout_allow_grow_x>
+      <ajax_layout_allow_grow_y>2</ajax_layout_allow_grow_y>
+      <ajax_layout_allow_shrink_x>2</ajax_layout_allow_shrink_x>
+      <ajax_layout_allow_shrink_y>2</ajax_layout_allow_shrink_y>
+      <ajax_opacity>100</ajax_opacity>
+      <dimensions x="10" y="10" cx="90" cy="24"/>
+      <field_flags>
+        <tab_stop/>
+      </field_flags>
+      <id>BUTTON</id>
+      <send_key>1</send_key>
+      <theme_appearance_name>_DynamicNavbarButton</theme_appearance_name>
+      <title>&gt;</title>
+    </ajax_button>
+    <ajax_label>
+      <ajax_opacity>100</ajax_opacity>
+      <ajax_opts_common>
+        <ajax_selectable/>
+      </ajax_opts_common>
+      <dimensions x="112" y="16" cx="90" cy="20"/>
+      <id>LABEL</id>
+      <theme_appearance_name>_DynamicNavbarButtonLabel</theme_appearance_name>
+    </ajax_label>
+  </controls>
+</panel>

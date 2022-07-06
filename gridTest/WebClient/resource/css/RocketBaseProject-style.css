@@ -1,0 +1,24 @@
+div#background {
+	background: #F3F3F3;
+	background-repeat: repeat-x;
+	height: 100%;
+	width: 100%;
+	min-height: 100%;
+	min-width: 100%;
+}
+
+.tileicon {
+		display: table-cell;
+		left: 0px;
+		vertical-align:middle;
+		}	
+
+.tiletext {
+		display: table-cell;
+		padding: 10px; 
+		vertical-align:top;
+		}
+
+body {
+	margin: 0;
+}

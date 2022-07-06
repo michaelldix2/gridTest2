@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?VersionInfo exeName="LegaSuite.exe" productName="lswb" exeVersion="8.3382.1.117" modelVersion="1.0" ?>
+<panel xmlns="http://www.seagullsoftware.com/schemas/legasuite/panel" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.seagullsoftware.com/schemas/legasuite/panel http://www.seagullsoftware.com/schemas/legasuite/webpagedefinition2_5.xsd">
+  <properties>
+    <title>Output field layouts</title>
+    <id>OUT</id>
+    <dimensions x="0" y="0" cx="588" cy="336"/>
+    <screen_name>OUT</screen_name>
+    <panel_flags>
+      <update_on_host_change/>
+      <size_independent/>
+      <no_zorder/>
+    </panel_flags>
+    <codepage>1252</codepage>
+  </properties>
+  <menu_bar>
+    <menu>
+      <title>FUNCTION</title>
+      <id>FUNCTION</id>
+    </menu>
+  </menu_bar>
+  <controls>
+    <ajax_label>
+      <dimensions x="15" y="26" cx="74" cy="16"/>
+      <title>@(ANY)@</title>
+      <general_flags_2>
+        <visibility_not_present_hide/>
+      </general_flags_2>
+      <id/>
+      <FontColor>
+        <FontStyleName>Text.Data</FontStyleName>
+        <ColorForeground>74</ColorForeground>
+        <ColorBackground>79</ColorBackground>
+      </FontColor>
+      <ajax_opacity>100</ajax_opacity>
+      <ajax_opts_common>
+        <ajax_enable_host_condition/>
+      </ajax_opts_common>
+      <ajax_layout_left>15</ajax_layout_left>
+      <ajax_opts_layout>
+        <ajax_layout_left_not_empty/>
+        <ajax_layout_top_not_empty/>
+      </ajax_opts_layout>
+      <ajax_layout_top>26</ajax_layout_top>
+      <enable_field_name/>
+      <color_conversion_host_field/>
+    </ajax_label>
+    <ajax_label>
+      <dimensions x="94" y="26" cx="85" cy="18"/>
+      <id/>
+      <title>@(SAME)@</title>
+      <general_flags_2>
+        <visibility_not_present_hide/>
+        <visibility_output_empty_hide/>
+      </general_flags_2>
+      <FontColor>
+        <FontStyleName>Text.Data</FontStyleName>
+        <ColorForeground>74</ColorForeground>
+        <ColorBackground>79</ColorBackground>
+      </FontColor>
+      <right_mouse_menu_name>FUNCTION</right_mouse_menu_name>
+      <color_conversion>2</color_conversion>
+      <ajax_opacity>100</ajax_opacity>
+      <ajax_opts_common>
+        <ajax_enable_host_condition/>
+        <ajax_enable_right_mouse_menu/>
+      </ajax_opts_common>
+      <ajax_layout_left>66</ajax_layout_left>
+      <ajax_opts_layout>
+        <ajax_layout_left_not_empty/>
+        <ajax_layout_top_not_empty/>
+      </ajax_opts_layout>
+      <ajax_layout_top>26</ajax_layout_top>
+      <enable_field_name/>
+      <color_conversion_host_field/>
+    </ajax_label>
+  </controls>
+</panel>

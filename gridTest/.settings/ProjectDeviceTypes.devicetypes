@@ -1,0 +1,236 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?VersionInfo exeName="LegaSuite.exe" exeVersion="8.3864.2.343" modelVersion="1.0" ?>
+<devicetypes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="devicetypes.xsd">
+	<device name="&#x3c;display&#x3e; 1280x800" type="monitor" size="9.43" ppi="160" ppid="160" su="1.00" sd="1.00">
+		<viewport width="1280" height="800"/>
+		<resolution width="1280" height="800"/>
+	</device>
+	<device name="&#x3c;display&#x3e; 1360x768" type="monitor" size="9.76" ppi="160" ppid="160" su="1.00" sd="1.00">
+		<viewport width="1360" height="768"/>
+		<resolution width="1360" height="768"/>
+	</device>
+	<device name="&#x3c;display&#x3e; 1536x864" type="monitor" size="11.01" ppi="160" ppid="160" su="1.00" sd="1.00">
+		<viewport width="1536" height="864"/>
+		<resolution width="1536" height="864"/>
+	</device>
+	<device name="Apple iPhone 12 Pro" type="mobile" size="6.07" ppi="460" ppid="460" su="3.00" sd="1.00">
+		<viewport width="390" height="844"/>
+		<resolution width="1170" height="2532"/>
+	</device>
+	<device name="Apple iPhone 12 Pro Max" type="mobile" size="6.68" ppi="458" ppid="458" su="3.00" sd="1.00">
+		<viewport width="428" height="926"/>
+		<resolution width="1284" height="2778"/>
+	</device>
+	<device name="Apple iPhone 11 (Xr)" type="mobile" size="6.05" ppi="326" ppid="326" su="2.00" sd="1.00">
+		<viewport width="414" height="896"/>
+		<resolution width="828" height="1792"/>
+	</device>
+	<device name="Apple iPhone SE (6, 6s, 7, 8)" type="mobile" size="4.70" ppi="326" ppid="326" su="2.00" sd="1.00">
+		<viewport width="375" height="667"/>
+		<resolution width="750" height="1334"/>
+	</device>
+	<device name="Apple iPhone 11 Pro Max (Xs Max)" type="mobile" size="6.50" ppi="456" ppid="456" su="3.00" sd="1.00">
+		<viewport width="414" height="896"/>
+		<resolution width="1242" height="2688"/>
+	</device>
+	<device name="Apple iPhone 11 Pro (X, Xs)" type="mobile" size="5.86" ppi="458" ppid="458" su="3.00" sd="1.00">
+		<viewport width="375" height="812"/>
+		<resolution width="1125" height="2436"/>
+	</device>
+	<device name="Apple iPhone 8+ (6+, 6s+, 7+)" type="mobile" size="5.50" ppi="401" ppid="401" su="3.00" sd="1.15">
+		<viewport width="414" height="736"/>
+		<resolution width="1080" height="1920"/>
+	</device>
+	<device name="Apple iPad Pro 4th" type="tablet" size="12.91" ppi="264" ppid="264" su="2.00" sd="1.00">
+		<viewport width="1024" height="1366"/>
+		<resolution width="2048" height="2732"/>
+	</device>
+	<device name="Apple iPad Air 4th" type="tablet" size="10.90" ppi="264" ppid="264" su="2.00" sd="1.00">
+		<viewport width="820" height="1180"/>
+		<resolution width="1640" height="2360"/>
+	</device>
+	<device name="Apple iPad 8th (7th)" type="tablet" size="10.21" ppi="264" ppid="264" su="2.00" sd="1.00">
+		<viewport width="810" height="1080"/>
+		<resolution width="1620" height="2160"/>
+	</device>
+	<device name="Apple iPad mini 5th" type="tablet" size="7.85" ppi="326" ppid="326" su="2.00" sd="1.00">
+		<viewport width="768" height="1024"/>
+		<resolution width="1536" height="2048"/>
+	</device>
+	<device name="Samsung Galaxy Z Fold2" type="mobile" size="7.59" ppi="373" ppid="160" su="1.00" sd="1.00">
+		<viewport width="759" height="948"/>
+		<resolution width="1768" height="2208"/>
+	</device>
+	<device name="Samsung Galaxy Z Flip" type="mobile" size="6.70" ppi="425" ppid="160" su="1.00" sd="1.00">
+		<viewport width="406" height="992"/>
+		<resolution width="1080" height="2636"/>
+	</device>
+	<device name="Samsung Galaxy Z Fold" type="mobile" size="7.29" ppi="363" ppid="160" su="1.00" sd="1.00">
+		<viewport width="677" height="949"/>
+		<resolution width="1536" height="2152"/>
+	</device>
+	<device name="Samsung Galaxy S20 (FE, FE 5G)" type="mobile" size="6.46" ppi="408" ppid="160" su="1.00" sd="1.00">
+		<viewport width="424" height="942"/>
+		<resolution width="1080" height="2400"/>
+	</device>
+	<device name="Samsung Galaxy S20 5G" type="mobile" size="6.23" ppi="563" ppid="160" su="1.00" sd="1.00">
+		<viewport width="409" height="909"/>
+		<resolution width="1440" height="3200"/>
+	</device>
+	<device name="Samsung Galaxy S20+ 5G" type="mobile" size="6.67" ppi="526" ppid="160" su="1.00" sd="1.00">
+		<viewport width="438" height="974"/>
+		<resolution width="1440" height="3200"/>
+	</device>
+	<device name="Samsung Galaxy S20 Ultra 5G" type="mobile" size="6.87" ppi="511" ppid="160" su="1.00" sd="1.00">
+		<viewport width="451" height="1002"/>
+		<resolution width="1440" height="3200"/>
+	</device>
+	<device name="Samsung Note20 Ultra 5G" type="mobile" size="6.87" ppi="496" ppid="160" su="1.00" sd="1.00">
+		<viewport width="465" height="996"/>
+		<resolution width="1440" height="3088"/>
+	</device>
+	<device name="Samsung Note20 (5G)" type="mobile" size="6.67" ppi="394" ppid="160" su="1.00" sd="1.00">
+		<viewport width="438" height="974"/>
+		<resolution width="1080" height="2400"/>
+	</device>
+	<device name="Samsung Galaxy A71" type="mobile" size="6.67" ppi="394" ppid="160" su="1.00" sd="1.00">
+		<viewport width="438" height="974"/>
+		<resolution width="1080" height="2400"/>
+	</device>
+	<device name="Samsung Galaxy A51" type="mobile" size="6.46" ppi="408" ppid="160" su="1.00" sd="1.00">
+		<viewport width="424" height="942"/>
+		<resolution width="1080" height="2400"/>
+	</device>
+	<device name="Samsung Galaxy A10" type="mobile" size="6.22" ppi="270" ppid="160" su="1.00" sd="1.00">
+		<viewport width="426" height="899"/>
+		<resolution width="720" height="1520"/>
+	</device>
+	<device name="Samsung Galaxy M31 (M21)" type="mobile" size="6.40" ppi="403" ppid="160" su="1.00" sd="1.00">
+		<viewport width="429" height="930"/>
+		<resolution width="1080" height="2340"/>
+	</device>
+	<device name="Samsung Tab S7+" type="tablet" size="12.40" ppi="266" ppid="160" su="1.00" sd="1.00">
+		<viewport width="1054" height="1684"/>
+		<resolution width="1752" height="2800"/>
+	</device>
+	<device name="Samsung Tab S7" type="tablet" size="10.95" ppi="276" ppid="160" su="1.00" sd="1.00">
+		<viewport width="928" height="1484"/>
+		<resolution width="1600" height="2560"/>
+	</device>
+	<device name="Samsung Tab A7 (LTE)" type="tablet" size="10.40" ppi="224" ppid="160" su="1.00" sd="1.00">
+		<viewport width="856" height="1427"/>
+		<resolution width="1200" height="2000"/>
+	</device>
+	<device name="Sony Xperia 5 II" type="mobile" size="6.10" ppi="449" ppid="160" su="1.00" sd="1.00">
+		<viewport width="384" height="897"/>
+		<resolution width="1080" height="2520"/>
+	</device>
+	<device name="Sony Xperia 1 II (Pro)" type="mobile" size="6.50" ppi="643" ppid="160" su="1.00" sd="1.00">
+		<viewport width="409" height="956"/>
+		<resolution width="1644" height="3840"/>
+	</device>
+	<device name="LG Wing (Velvet)" type="mobile" size="6.80" ppi="395" ppid="160" su="1.00" sd="1.00">
+		<viewport width="437" height="996"/>
+		<resolution width="1080" height="2460"/>
+	</device>
+	<device name="LG K61" type="mobile" size="6.53" ppi="395" ppid="160" su="1.00" sd="1.00">
+		<viewport width="438" height="949"/>
+		<resolution width="1080" height="2340"/>
+	</device>
+	<device name="LG K51S" type="mobile" size="6.55" ppi="268" ppid="160" su="1.00" sd="1.00">
+		<viewport width="430" height="956"/>
+		<resolution width="720" height="1600"/>
+	</device>
+	<device name="LG Dual Screen G8X ThinQ" type="mobile" size="6.39" ppi="403" ppid="160" su="1.00" sd="1.00">
+		<viewport width="428" height="928"/>
+		<resolution width="1080" height="2340"/>
+	</device>
+	<device name="Nokia 9 PureView" type="mobile" size="5.99" ppi="538" ppid="160" su="1.00" sd="1.00">
+		<viewport width="429" height="857"/>
+		<resolution width="1440" height="2880"/>
+	</device>
+	<device name="Nokia 8.3" type="mobile" size="6.81" ppi="386" ppid="160" su="1.00" sd="1.00">
+		<viewport width="447" height="994"/>
+		<resolution width="1080" height="2400"/>
+	</device>
+	<device name="Nokia 8.1" type="mobile" size="6.18" ppi="408" ppid="160" su="1.00" sd="1.00">
+		<viewport width="423" height="894"/>
+		<resolution width="1080" height="2280"/>
+	</device>
+	<device name="Nokia 8 Sirocco" type="mobile" size="5.50" ppi="534" ppid="160" su="1.00" sd="1.00">
+		<viewport width="431" height="767"/>
+		<resolution width="1440" height="2560"/>
+	</device>
+	<device name="Nokia 7+" type="mobile" size="6.00" ppi="402" ppid="160" su="1.00" sd="1.00">
+		<viewport width="429" height="859"/>
+		<resolution width="1080" height="2160"/>
+	</device>
+	<device name="Nokia 7.2" type="mobile" size="6.30" ppi="400" ppid="160" su="1.00" sd="1.00">
+		<viewport width="432" height="911"/>
+		<resolution width="1080" height="2280"/>
+	</device>
+	<device name="Amazone Fire 10" type="tablet" size="10.10" ppi="224" ppid="160" su="1.00" sd="1.00">
+		<viewport width="856" height="1370"/>
+		<resolution width="1200" height="1920"/>
+	</device>
+	<device name="Amazone Fire 8 (8+)" type="tablet" size="8.00" ppi="189" ppid="160" su="1.00" sd="1.00">
+		<viewport width="678" height="1085"/>
+		<resolution width="800" height="1280"/>
+	</device>
+	<device name="Amazone Fire 7" type="tablet" size="6.95" ppi="171" ppid="160" su="1.00" sd="1.00">
+		<viewport width="562" height="959"/>
+		<resolution width="600" height="1024"/>
+	</device>
+	<device name="Microsoft Surfae Pro 7" type="tablet" size="12.30" ppi="267" ppid="160" su="1.00" sd="1.00">
+		<viewport width="1093" height="1640"/>
+		<resolution width="1824" height="2736"/>
+	</device>
+	<device name="Microsoft Surface Go 2" type="tablet" size="10.50" ppi="220" ppid="160" su="1.00" sd="1.00">
+		<viewport width="931" height="1396"/>
+		<resolution width="1280" height="1920"/>
+	</device>
+	<device name="Microsoft Surface Pro X" type="tablet" size="12.95" ppi="267" ppid="160" su="1.00" sd="1.00">
+		<viewport width="1151" height="1726"/>
+		<resolution width="1920" height="2880"/>
+	</device>
+	<device name="Motorola (Lenovo) razr" type="mobile" size="6.20" ppi="373" ppid="160" su="1.00" sd="1.00">
+		<viewport width="376" height="918"/>
+		<resolution width="876" height="2142"/>
+	</device>
+	<device name="Motorola (Lenovo) edge" type="mobile" size="6.70" ppi="385" ppid="160" su="1.00" sd="1.00">
+		<viewport width="449" height="973"/>
+		<resolution width="1080" height="2340"/>
+	</device>
+	<device name="Motorola (Lenovo) g+" type="mobile" size="6.70" ppi="409" ppid="160" su="1.00" sd="1.00">
+		<viewport width="422" height="985"/>
+		<resolution width="1080" height="2520"/>
+	</device>
+	<device name="Motorola (Lenovo) g9+" type="mobile" size="6.80" ppi="387" ppid="160" su="1.00" sd="1.00">
+		<viewport width="446" height="992"/>
+		<resolution width="1080" height="2400"/>
+	</device>
+	<device name="Lenovo Legion Phone Duel" type="mobile" size="6.65" ppi="388" ppid="160" su="1.00" sd="1.00">
+		<viewport width="446" height="966"/>
+		<resolution width="1080" height="2340"/>
+	</device>
+	<device name="Lenovo Tab P11 Pro" type="tablet" size="11.50" ppi="263" ppid="160" su="1.00" sd="1.00">
+		<viewport width="975" height="1560"/>
+		<resolution width="1600" height="2560"/>
+	</device>
+	<device name="Lenovo Tab M10+" type="tablet" size="10.30" ppi="220" ppid="160" su="1.00" sd="1.00">
+		<viewport width="873" height="1398"/>
+		<resolution width="1200" height="1920"/>
+	</device>
+	<device name="Lenovo Tab P11" type="tablet" size="11.00" ppi="212" ppid="160" su="1.00" sd="1.00">
+		<viewport width="906" height="1509"/>
+		<resolution width="1200" height="2000"/>
+	</device>
+	<device name="Lenovo Ideapad Duet (Tablet 10)" type="tablet" size="10.10" ppi="224" ppid="160" su="1.00" sd="1.00">
+		<viewport width="856" height="1370"/>
+		<resolution width="1200" height="1920"/>
+	</device>
+	<device name="Lenovo Tab M7 2nd" type="tablet" size="7.00" ppi="170" ppid="160" su="1.00" sd="1.00">
+		<viewport width="566" height="966"/>
+		<resolution width="600" height="1024"/>
+	</device>
+</devicetypes>

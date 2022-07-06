@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?VersionInfo exeName="LegaSuite.exe" exeVersion="7.2801.1.26" modelVersion="1.0" ?>
+<panel xmlns="http://www.seagullsoftware.com/schemas/legasuite/panel" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.seagullsoftware.com/schemas/legasuite/panel http://www.seagullsoftware.com/schemas/legasuite/paneldefinition3_0.xsd">
+  <properties>
+    <title>Push button layouts</title>
+    <id>PSH</id>
+    <dimensions x="0" y="0" cx="588" cy="322"/>
+    <panel_flags>
+      <update_on_host_change/>
+      <size_independent/>
+      <no_zorder/>
+    </panel_flags>
+    <codepage>1252</codepage>
+  </properties>
+  <menu_bar/>
+  <controls>
+    <ajax_button>
+      <dimensions x="30" y="28" cx="54" cy="24"/>
+      <field_flags>
+        <tab_stop/>
+      </field_flags>
+      <general_flags_2>
+        <state_dependent/>
+      </general_flags_2>
+      <title>(ANY)</title>
+      <FontColor>
+        <FontStyleName>Text.SubfileOptions</FontStyleName>
+      </FontColor>
+      <id>BUTTON1</id>
+      <ajax_opacity>100</ajax_opacity>
+      <ajax_layout_left>30</ajax_layout_left>
+      <ajax_opts_layout>
+        <ajax_layout_left_not_empty/>
+        <ajax_layout_top_not_empty/>
+        <ajax_layout_max_width_not_empty/>
+        <ajax_layout_max_height_not_empty/>
+        <ajax_layout_min_width_not_empty/>
+        <ajax_layout_min_height_not_empty/>
+      </ajax_opts_layout>
+      <ajax_layout_top>28</ajax_layout_top>
+      <ajax_max_width>141</ajax_max_width>
+      <ajax_max_height>28</ajax_max_height>
+      <ajax_min_width>141</ajax_min_width>
+      <ajax_min_height>28</ajax_min_height>
+      <ajax_center>1</ajax_center>
+    </ajax_button>
+    <ajax_button>
+      <dimensions x="184" y="28" cx="70" cy="24"/>
+      <field_flags>
+        <tab_stop/>
+      </field_flags>
+      <id>(SAME)</id>
+      <host_field>(SAME)</host_field>
+      <panel_next>(SAME)</panel_next>
+      <list_name>(SAME)</list_name>
+      <string_send>(SAME)</string_send>
+      <general_flags_2>
+        <state_dependent/>
+        <visibility_output_data_disable/>
+      </general_flags_2>
+      <title>(SAME)</title>
+      <FontColor>
+        <FontStyleName>Text.SubfileOptions</FontStyleName>
+      </FontColor>
+      <ajax_opacity>100</ajax_opacity>
+      <ajax_opts_common>
+        <ajax_enable_host_condition/>
+      </ajax_opts_common>
+      <ajax_layout_left>96</ajax_layout_left>
+      <ajax_opts_layout>
+        <ajax_layout_left_not_empty/>
+        <ajax_layout_bottom_not_empty/>
+        <ajax_layout_max_width_not_empty/>
+        <ajax_layout_max_height_not_empty/>
+        <ajax_layout_min_width_not_empty/>
+        <ajax_layout_min_height_not_empty/>
+      </ajax_opts_layout>
+      <ajax_layout_bottom>270</ajax_layout_bottom>
+      <ajax_max_width>141</ajax_max_width>
+      <ajax_max_height>28</ajax_max_height>
+      <ajax_min_width>141</ajax_min_width>
+      <ajax_min_height>28</ajax_min_height>
+      <ajax_center>1</ajax_center>
+    </ajax_button>
+  </controls>
+</panel>

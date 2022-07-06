@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?VersionInfo exeName="LegaSuite.exe" productName="lswb" exeVersion="8.3821.0.0" modelVersion="1.1" ?>
+<panel xmlns="http://www.seagullsoftware.com/schemas/legasuite/panel" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.seagullsoftware.com/schemas/legasuite/panel http://www.seagullsoftware.com/schemas/legasuite/webpagedefinition2_6.xsd">
+  <properties/>
+  <controls>
+    <ajax_grid>
+      <ajax_filter_field_length>100</ajax_filter_field_length>
+      <ajax_grid_flags>
+        <ajax_auto_width/>
+        <ajax_enable_hideshow_columns/>
+        <ajax_not_keep_first_visible_row_complete/>
+        <ajax_show_lines_btw_columns/>
+      </ajax_grid_flags>
+      <ajax_min_height>30</ajax_min_height>
+      <ajax_opts_common>
+        <ajax_draggable/>
+        <ajax_enable_control_resizing/>
+      </ajax_opts_common>
+      <ajax_opts_layout>
+        <ajax_layout_min_height_not_empty/>
+      </ajax_opts_layout>
+      <dimensions x="10" y="10" cx="250" cy="170"/>
+      <field_flags>
+        <tab_stop/>
+      </field_flags>
+      <header_height>30</header_height>
+      <id>GRID</id>
+      <key_page_down>3</key_page_down>
+      <key_page_up>2</key_page_up>
+      <list_box_flags>
+        <empty_line_ends/>
+      </list_box_flags>
+      <theme_appearance_name>__Grid</theme_appearance_name>
+      <ajax_grid_column>
+        <id>GRIDCOLUMN1</id>
+        <title>column 1</title>
+      </ajax_grid_column>
+      <ajax_grid_column>
+        <id>GRIDCOLUMN2</id>
+        <title>column 2</title>
+      </ajax_grid_column>
+    </ajax_grid>
+  </controls>
+</panel>

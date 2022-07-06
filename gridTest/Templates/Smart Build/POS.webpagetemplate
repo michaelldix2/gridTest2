@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?VersionInfo exeName="LegaSuite.exe" exeVersion="7.2543.1.24" modelVersion="1.0" ?>
+<panel xmlns="http://www.seagullsoftware.com/schemas/legasuite/panel" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.seagullsoftware.com/schemas/legasuite/panel http://www.seagullsoftware.com/schemas/legasuite/paneldefinition3_0.xsd">
+  <properties>
+    <title>Screen position to panel position mapping</title>
+    <id>POS</id>
+    <dimensions x="0" y="0" cx="920" cy="631"/>
+    <panel_flags>
+      <update_on_host_change/>
+      <size_independent/>
+      <no_zorder/>
+    </panel_flags>
+    <codepage>1252</codepage>
+    <FontColor>
+      <FontStyleName>Default Font 10</FontStyleName>
+    </FontColor>
+  </properties>
+  <controls>
+    <ajax_label>
+      <general_flags_2>
+        <visibility_equal_hide/>
+      </general_flags_2>
+      <title>1,1</title>
+      <general_flags_1>
+        <autolength/>
+      </general_flags_1>
+      <dimensions x="195" y="90" cx="39" cy="18"/>
+      <FontColor>
+        <FontStyleName>Default Font 10</FontStyleName>
+      </FontColor>
+    </ajax_label>
+  </controls>
+</panel>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?VersionInfo exeName="LegaSuite.exe" productName="lswb" exeVersion="8.3813.2.191" modelVersion="1.1" ?>
+<panel xmlns="http://www.seagullsoftware.com/schemas/legasuite/panel" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.seagullsoftware.com/schemas/legasuite/panel http://www.seagullsoftware.com/schemas/legasuite/webpagedefinition2_6.xsd">
+  <properties>
+    <dimensions x="0" y="0" cx="890" cy="627"/>
+    <id>POSPOPUP</id>
+    <panel_flags>
+      <no_zorder/>
+      <size_independent/>
+      <update_on_host_change/>
+    </panel_flags>
+    <title>Position Popup Panel</title>
+  </properties>
+  <controls>
+    <ajax_label>
+      <ajax_layout_left>10</ajax_layout_left>
+      <ajax_layout_top>10</ajax_layout_top>
+      <ajax_opacity>100</ajax_opacity>
+      <ajax_opts_layout>
+        <ajax_layout_left_not_empty/>
+        <ajax_layout_top_not_empty/>
+      </ajax_opts_layout>
+      <dimensions x="3" y="2" cx="90" cy="20"/>
+      <id>LABEL1</id>
+      <theme_appearance_name>__Label</theme_appearance_name>
+      <title>2,2</title>
+    </ajax_label>
+    <ajax_label>
+      <ajax_layout_left>697</ajax_layout_left>
+      <ajax_layout_top>544</ajax_layout_top>
+      <ajax_opts_common>
+        <ajax_enable_text_expression/>
+      </ajax_opts_common>
+      <ajax_opts_layout>
+        <ajax_layout_left_not_empty/>
+        <ajax_layout_top_not_empty/>
+      </ajax_opts_layout>
+      <dimensions x="821" y="587" cx="45" cy="22"/>
+      <FontColor/>
+      <general_flags_1/>
+      <general_flags_2>
+        <visibility_equal_hide/>
+      </general_flags_2>
+      <id>LABEL13</id>
+      <theme_appearance_name>_ContentsLabel</theme_appearance_name>
+      <title>80,25</title>
+    </ajax_label>
+  </controls>
+</panel>

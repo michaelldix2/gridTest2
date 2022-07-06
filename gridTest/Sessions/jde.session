@@ -1,0 +1,8 @@
+﻿#
+#Wed Jun 29 09:51:46 CDT 2022
+BidiOisReturnsLogical=1
+EmulatorSystem=Lsdev72b
+EmulatorSystemPort=23
+Emulator=Seagull5250
+WideScreen=1
+EmulatorConnect=TcpIp

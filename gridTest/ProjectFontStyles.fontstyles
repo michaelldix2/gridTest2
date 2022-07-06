@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?VersionInfo exeName="LegaSuite.exe" productName="lswb" exeVersion="8.3382.1.117" modelVersion="1.0" ?>
+<FontStyles>
+   <FontStyle name="Courier New 10">
+      <FontDefinition>
+         <FontFaceName>Courier New</FontFaceName>
+         <CharacterHeight>13</CharacterHeight>
+         <FixedPitch/>
+         <FontFamily>Modern</FontFamily>
+      </FontDefinition>
+   </FontStyle>
+   <FontStyle name="Sans Serif 12">
+      <FontDefinition>
+         <FontFaceName>Microsoft Sans Serif</FontFaceName>
+         <CharacterHeight>16</CharacterHeight>
+         <FontFamily>Swiss</FontFamily>
+      </FontDefinition>
+   </FontStyle>
+   <FontStyle name="Sans Serif 8">
+      <FontDefinition>
+         <FontFaceName>Microsoft Sans Serif</FontFaceName>
+         <CharacterHeight>10</CharacterHeight>
+         <FontFamily>Swiss</FontFamily>
+      </FontDefinition>
+   </FontStyle>
+   <FontStyle name="Sans Serif 10 Bold">
+      <FontDefinition>
+         <FontFaceName>Microsoft Sans Serif</FontFaceName>
+         <CharacterHeight>13</CharacterHeight>
+         <Bold/>
+         <FontFamily>Swiss</FontFamily>
+      </FontDefinition>
+   </FontStyle>
+   <FontStyle name="Arial 10 Bold">
+      <FontDefinition>
+         <FontFaceName>Arial</FontFaceName>
+         <CharacterHeight>13</CharacterHeight>
+         <Bold/>
+         <FontFamily>Swiss</FontFamily>
+      </FontDefinition>
+   </FontStyle>
+   <FontStyle name="Lucida Sans Unicode 10">
+      <FontDefinition>
+         <FontFaceName>Lucida Sans Unicode</FontFaceName>
+         <CharacterHeight>13</CharacterHeight>
+         <FontFamily>Swiss</FontFamily>
+      </FontDefinition>
+   </FontStyle>
+   <FontStyle name="Lucida Console 10">
+      <FontDefinition>
+         <FontFaceName>Lucida Console</FontFaceName>
+         <CharacterHeight>13</CharacterHeight>
+         <FixedPitch/>
+         <FontFamily>Modern</FontFamily>
+      </FontDefinition>
+   </FontStyle>
+   <FontStyle name="Lucida Console 9">
+      <FontDefinition>
+         <FontFaceName>Lucida Console</FontFaceName>
+         <CharacterHeight>12</CharacterHeight>
+         <Bold/>
+         <FixedPitch/>
+         <FontFamily>Modern</FontFamily>
+      </FontDefinition>
+   </FontStyle>
+   <FontStyle name="Times New Roman 14">
+      <FontDefinition>
+         <FontFaceName>Times New Roman</FontFaceName>
+         <CharacterHeight>18</CharacterHeight>
+         <FontFamily>Roman</FontFamily>
+      </FontDefinition>
+   </FontStyle>
+   <FontStyle name="Times New Roman 15">
+      <FontDefinition>
+         <FontFaceName>Times New Roman</FontFaceName>
+         <CharacterHeight>20</CharacterHeight>
+         <FontFamily>Roman</FontFamily>
+      </FontDefinition>
+   </FontStyle>
+   <FontStyle name="Seagull System VIO 5">
+      <LegacyFont>
+         <FontFaceName>System VIO</FontFaceName>
+         <Size>5</Size>
+      </LegacyFont>
+   </FontStyle>
+   <FontStyle name="Sans Serif 10">
+      <FontDefinition>
+         <FontFaceName>Microsoft Sans Serif</FontFaceName>
+         <CharacterHeight>13</CharacterHeight>
+         <FontFamily>Swiss</FontFamily>
+      </FontDefinition>
+   </FontStyle>
+   <FontStyle name="Default Font 10">
+      <FontDefinition>
+         <FontFaceName>Arial</FontFaceName>
+         <CharacterHeight>13</CharacterHeight>
+         <FontFamily>Swiss</FontFamily>
+      </FontDefinition>
+   </FontStyle>
+   <FontStyle name="Default Font 12">
+      <FontDefinition>
+         <FontFaceName>Arial</FontFaceName>
+         <CharacterHeight>16</CharacterHeight>
+         <FontFamily>Swiss</FontFamily>
+      </FontDefinition>
+   </FontStyle>
+   <FontStyle name="Default Font 14">
+      <FontDefinition>
+         <FontFaceName>Arial</FontFaceName>
+         <CharacterHeight>19</CharacterHeight>
+         <FontFamily>Swiss</FontFamily>
+      </FontDefinition>
+   </FontStyle>
+   <FontStyle name="verdana 10 normal">
+      <FontDefinition>
+         <FontFaceName>Verdana</FontFaceName>
+         <CharacterHeight>13</CharacterHeight>
+         <FontFamily>Swiss</FontFamily>
+      </FontDefinition>
+   </FontStyle>
+   <FontStyle name="verdana 9 normal">
+      <FontDefinition>
+         <FontFaceName>Verdana</FontFaceName>
+         <CharacterHeight>12</CharacterHeight>
+         <FontFamily>Swiss</FontFamily>
+      </FontDefinition>
+   </FontStyle>
+   <FontStyle name="verdana 12 bold">
+      <FontDefinition>
+         <FontFaceName>Verdana</FontFaceName>
+         <CharacterHeight>16</CharacterHeight>
+         <Bold/>
+         <FontFamily>Swiss</FontFamily>
+      </FontDefinition>
+   </FontStyle>
+   <FontStyle name="verdana 11 Bold">
+      <FontDefinition>
+         <FontFaceName>Verdana</FontFaceName>
+         <CharacterHeight>15</CharacterHeight>
+         <Bold/>
+         <FontFamily>Swiss</FontFamily>
+      </FontDefinition>
+   </FontStyle>
+   <FontStyle name="Verdana 14 Bold">
+      <FontDefinition>
+         <FontFaceName>Verdana</FontFaceName>
+         <CharacterHeight>19</CharacterHeight>
+         <Bold/>
+         <FontFamily>Swiss</FontFamily>
+      </FontDefinition>
+   </FontStyle>
+   <FontStyle name="Verdana 9 bold">
+      <FontDefinition>
+         <FontFaceName>Verdana</FontFaceName>
+         <CharacterHeight>12</CharacterHeight>
+         <Bold/>
+         <FontFamily>Swiss</FontFamily>
+      </FontDefinition>
+   </FontStyle>
+   <FontStyle name="Verdana 11 normal">
+      <FontDefinition>
+         <FontFaceName>Verdana</FontFaceName>
+         <CharacterHeight>15</CharacterHeight>
+         <FontFamily>Swiss</FontFamily>
+      </FontDefinition>
+   </FontStyle>
+   <FontStyle name="Verdana 10 Bold">
+      <FontDefinition>
+         <FontFaceName>Verdana</FontFaceName>
+         <CharacterHeight>13</CharacterHeight>
+         <Bold/>
+         <FontFamily>Swiss</FontFamily>
+      </FontDefinition>
+   </FontStyle>
+   <FontStyle name="Verdana 12 normal">
+      <FontDefinition>
+         <FontFaceName>Verdana</FontFaceName>
+         <CharacterHeight>16</CharacterHeight>
+         <FontFamily>Swiss</FontFamily>
+      </FontDefinition>
+   </FontStyle>
+   <FontStyle name="Verdana 14 normal">
+      <FontDefinition>
+         <FontFaceName>Verdana</FontFaceName>
+         <CharacterHeight>19</CharacterHeight>
+         <FontFamily>Swiss</FontFamily>
+      </FontDefinition>
+   </FontStyle>
+   <FontStyle name="Text.Label">
+      <FontDefinition>
+         <FontFaceName>Verdana</FontFaceName>
+         <CharacterHeight>13</CharacterHeight>
+         <Bold/>
+         <FontFamily>Swiss</FontFamily>
+      </FontDefinition>
+   </FontStyle>
+   <FontStyle name="Radio.Button">
+      <FontDefinition>
+         <FontFaceName>Verdana</FontFaceName>
+         <CharacterHeight>12</CharacterHeight>
+         <FontFamily>Swiss</FontFamily>
+      </FontDefinition>
+   </FontStyle>
+   <FontStyle name="NavBar.Button">
+      <FontDefinition>
+         <FontFaceName>Verdana</FontFaceName>
+         <CharacterHeight>15</CharacterHeight>
+         <FontFamily>Swiss</FontFamily>
+      </FontDefinition>
+   </FontStyle>
+   <FontStyle name="Text.ButtonBlue">
+      <FontDefinition>
+         <FontFaceName>Verdana</FontFaceName>
+         <CharacterHeight>15</CharacterHeight>
+         <FontFamily>Swiss</FontFamily>
+      </FontDefinition>
+   </FontStyle>
+   <FontStyle name="Text.SubfileOptions">
+      <FontDefinition>
+         <FontFaceName>Verdana</FontFaceName>
+         <CharacterHeight>13</CharacterHeight>
+         <FontFamily>Swiss</FontFamily>
+      </FontDefinition>
+   </FontStyle>
+   <FontStyle name="Text.PageTitle">
+      <FontDefinition>
+         <FontFaceName>Verdana</FontFaceName>
+         <CharacterHeight>19</CharacterHeight>
+         <Bold/>
+         <FontFamily>Swiss</FontFamily>
+      </FontDefinition>
+   </FontStyle>
+   <FontStyle name="Text.ColumnHeadings">
+      <FontDefinition>
+         <FontFaceName>Verdana</FontFaceName>
+         <CharacterHeight>12</CharacterHeight>
+         <Bold/>
+         <FontFamily>Swiss</FontFamily>
+      </FontDefinition>
+   </FontStyle>
+   <FontStyle name="Text.Data">
+      <FontDefinition>
+         <FontFaceName>Verdana</FontFaceName>
+         <CharacterHeight>13</CharacterHeight>
+         <FontFamily>Swiss</FontFamily>
+      </FontDefinition>
+   </FontStyle>
+   <FontStyle name="Text.Box">
+      <FontDefinition>
+         <FontFaceName>Verdana</FontFaceName>
+         <CharacterHeight>12</CharacterHeight>
+         <FontFamily>Swiss</FontFamily>
+      </FontDefinition>
+   </FontStyle>
+   <FontStyle name="Text.Date">
+      <FontDefinition>
+         <FontFaceName>Verdana</FontFaceName>
+         <CharacterHeight>12</CharacterHeight>
+         <FontFamily>Swiss</FontFamily>
+      </FontDefinition>
+   </FontStyle>
+   <FontStyle name="Text.ColumnData">
+      <FontDefinition>
+         <FontFaceName>Verdana</FontFaceName>
+         <CharacterHeight>12</CharacterHeight>
+         <FontFamily>Swiss</FontFamily>
+      </FontDefinition>
+   </FontStyle>
+   <FontStyle name="AuditStamp">
+      <FontDefinition>
+         <FontFaceName>Verdana</FontFaceName>
+         <CharacterHeight>11</CharacterHeight>
+         <FontFamily>Swiss</FontFamily>
+      </FontDefinition>
+   </FontStyle>
+   <FontStyle name="CheckBox.Button">
+      <FontDefinition>
+         <FontFaceName>Verdana</FontFaceName>
+         <CharacterHeight>12</CharacterHeight>
+         <FontFamily>Swiss</FontFamily>
+      </FontDefinition>
+   </FontStyle>
+   <FontStyle name="CheckBox.ButtonBold">
+      <FontDefinition>
+         <FontFaceName>Verdana</FontFaceName>
+         <CharacterHeight>12</CharacterHeight>
+         <Bold/>
+         <FontFamily>Swiss</FontFamily>
+      </FontDefinition>
+   </FontStyle>
+   <FontStyle name="Verdana 8 Bold">
+      <FontDefinition>
+         <FontFaceName>Verdana</FontFaceName>
+         <CharacterHeight>11</CharacterHeight>
+         <Bold/>
+         <FontFamily>Swiss</FontFamily>
+      </FontDefinition>
+   </FontStyle>
+   <FontStyle name="CheckBox.ButtonBold10">
+      <FontDefinition>
+         <FontFaceName>Verdana</FontFaceName>
+         <CharacterHeight>13</CharacterHeight>
+         <Bold/>
+         <FontFamily>Swiss</FontFamily>
+      </FontDefinition>
+   </FontStyle>
+   <FontStyle name="RadioButtonBold">
+      <FontDefinition>
+         <FontFaceName>Verdana</FontFaceName>
+         <CharacterHeight>13</CharacterHeight>
+         <Bold/>
+         <FontFamily>Swiss</FontFamily>
+      </FontDefinition>
+   </FontStyle>
+</FontStyles>

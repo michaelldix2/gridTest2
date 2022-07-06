@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?VersionInfo exeName="LegaSuite.exe" productName="lswb" exeVersion="8.3382.1.117" modelVersion="1.0" ?>
+<panel xmlns="http://www.seagullsoftware.com/schemas/legasuite/panel" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.seagullsoftware.com/schemas/legasuite/panel http://www.seagullsoftware.com/schemas/legasuite/webpagedefinition2_5.xsd">
+  <properties>
+    <title>Numeric entry field layouts</title>
+    <id>INPNUM</id>
+    <dimensions x="0" y="0" cx="588" cy="336"/>
+    <panel_flags>
+      <update_on_host_change/>
+      <size_independent/>
+      <no_zorder/>
+    </panel_flags>
+    <codepage>1252</codepage>
+  </properties>
+  <menu_bar>
+    <menu>
+      <title>FUNCTION</title>
+      <id>FUNCTION</id>
+    </menu>
+  </menu_bar>
+  <controls>
+    <ajax_text>
+      <dimensions x="15" y="14" cx="65" cy="18"/>
+      <field_flags>
+        <tab_stop/>
+      </field_flags>
+      <general_flags_1/>
+      <host_field>(ANY)</host_field>
+      <general_flags_2>
+        <visibility_not_present_hide/>
+      </general_flags_2>
+      <id>ENTRY1</id>
+      <field_length length="0" field_type="0" check_direct="0"/>
+      <ajax_opacity>100</ajax_opacity>
+      <ajax_opts_common>
+        <ajax_native_context_menu/>
+        <ajax_enable_right_mouse_menu/>
+        <ajax_enable_host_condition/>
+      </ajax_opts_common>
+      <ajax_layout_left>15</ajax_layout_left>
+      <ajax_opts_layout>
+        <ajax_layout_left_not_empty/>
+        <ajax_layout_top_not_empty/>
+      </ajax_opts_layout>
+      <ajax_layout_top>14</ajax_layout_top>
+      <FontColor>
+        <FontStyleName>Text.Data</FontStyleName>
+      </FontColor>
+    </ajax_text>
+    <ajax_text>
+      <dimensions x="84" y="14" cx="65" cy="18"/>
+      <general_flags_1>
+        <right_aligned/>
+        <auto_tab/>
+        <cursor_selected/>
+        <output_when_read_only/>
+      </general_flags_1>
+      <FontColor>
+        <FontStyleName>Text.Data</FontStyleName>
+      </FontColor>
+      <host_field>(SAME)</host_field>
+      <color_conversion>1</color_conversion>
+      <field_length length="0" field_type="7" check_direct="1"/>
+      <general_flags_2>
+        <visibility_not_present_hide/>
+        <visibility_output_empty_disable/>
+        <visibility_output_data_disable/>
+      </general_flags_2>
+      <right_mouse_menu_name>FUNCTION</right_mouse_menu_name>
+      <FontColorFocus>
+        <FontStyleName>Arial 10 Bold</FontStyleName>
+        <ColorBackground>68</ColorBackground>
+      </FontColorFocus>
+      <id>ENTRY2</id>
+      <field_flags>
+        <tab_stop/>
+      </field_flags>
+      <ajax_opacity>100</ajax_opacity>
+      <ajax_opts_common>
+        <ajax_native_context_menu/>
+        <ajax_enable_right_mouse_menu/>
+        <ajax_enable_host_condition/>
+      </ajax_opts_common>
+      <ajax_layout_left>72</ajax_layout_left>
+      <ajax_opts_layout>
+        <ajax_layout_left_not_empty/>
+        <ajax_layout_top_not_empty/>
+      </ajax_opts_layout>
+      <ajax_layout_top>14</ajax_layout_top>
+    </ajax_text>
+  </controls>
+</panel>

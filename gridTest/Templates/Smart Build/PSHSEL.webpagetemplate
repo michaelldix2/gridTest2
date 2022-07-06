@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?VersionInfo exeName="LegaSuite.exe" exeVersion="7.2801.1.26" modelVersion="1.0" ?>
+<panel xmlns="http://www.seagullsoftware.com/schemas/legasuite/panel" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.seagullsoftware.com/schemas/legasuite/panel http://www.seagullsoftware.com/schemas/legasuite/paneldefinition3_0.xsd">
+  <properties>
+    <title>List buttons which should not be moved to the menu bar</title>
+    <id>PSHSEL</id>
+    <dimensions x="0" y="0" cx="588" cy="336"/>
+    <panel_flags>
+      <update_on_host_change/>
+      <size_independent/>
+      <no_zorder/>
+    </panel_flags>
+    <codepage>1252</codepage>
+  </properties>
+  <menu_bar/>
+  <controls>
+    <ajax_button>
+      <dimensions x="15" y="16" cx="54" cy="24"/>
+      <field_flags>
+        <tab_stop/>
+      </field_flags>
+      <general_flags_1/>
+      <host_field>(ANY)</host_field>
+      <list_name>(ANY)</list_name>
+      <string_send>1</string_send>
+      <send_key>1</send_key>
+      <general_flags_2>
+        <state_dependent/>
+        <visibility_output_empty_disable/>
+        <visibility_output_data_disable/>
+      </general_flags_2>
+      <title>(ANY)</title>
+      <FontColor>
+        <FontStyleName>Text.SubfileOptions</FontStyleName>
+      </FontColor>
+      <id>BUTTON1</id>
+      <ajax_opacity>100</ajax_opacity>
+      <ajax_opts_common>
+        <ajax_enable_host_condition/>
+      </ajax_opts_common>
+      <ajax_layout_left>15</ajax_layout_left>
+      <ajax_opts_layout>
+        <ajax_layout_left_not_empty/>
+        <ajax_layout_top_not_empty/>
+        <ajax_layout_max_width_not_empty/>
+        <ajax_layout_max_height_not_empty/>
+        <ajax_layout_min_width_not_empty/>
+        <ajax_layout_min_height_not_empty/>
+      </ajax_opts_layout>
+      <ajax_layout_top>16</ajax_layout_top>
+      <ajax_center>1</ajax_center>
+      <ajax_max_width>141</ajax_max_width>
+      <ajax_max_height>28</ajax_max_height>
+      <ajax_min_width>141</ajax_min_width>
+      <ajax_min_height>28</ajax_min_height>
+    </ajax_button>
+  </controls>
+</panel>

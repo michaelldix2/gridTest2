@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?VersionInfo exeName="LegaSuite.exe" productName="lswb" exeVersion="8.3821.0.0" modelVersion="1.1" ?>
+<panel xmlns="http://www.seagullsoftware.com/schemas/legasuite/panel" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.seagullsoftware.com/schemas/legasuite/panel http://www.seagullsoftware.com/schemas/legasuite/webpagedefinition2_6.xsd">
+  <properties>
+    <ajax_layout_type>2</ajax_layout_type>
+    <codepage>1252</codepage>
+    <dimensions x="0" y="0" cx="966" cy="190"/>
+    <id>_HEADER</id>
+    <panel_flags>
+      <no_move_cursor_as_host/>
+      <no_panel_host/>
+      <no_zorder/>
+      <size_independent/>
+    </panel_flags>
+    <screen_name/>
+    <title>&lt;Place your title here&gt;</title>
+  </properties>
+  <controls>
+    <ajax_container>
+      <ajax_layout_aligny>1</ajax_layout_aligny>
+      <ajax_layout_height>0</ajax_layout_height>
+      <ajax_layout_spacingx>0</ajax_layout_spacingx>
+      <ajax_layout_type>1</ajax_layout_type>
+      <controls>
+        <ajax_image>
+          <ajax_align_x>2</ajax_align_x>
+          <ajax_align_y>2</ajax_align_y>
+          <ajax_layout_top>0</ajax_layout_top>
+          <ajax_opacity>100</ajax_opacity>
+          <ajax_opts_layout>
+            <ajax_layout_top_not_empty/>
+          </ajax_opts_layout>
+          <dimensions x="0" y="0" cx="300" cy="69"/>
+          <field_flags>
+            <tab_stop/>
+          </field_flags>
+          <id>IMAGE</id>
+          <image_file/>
+          <script>urlOpen(&quot;www.rocketsoftware.com&quot;)</script>
+          <theme_appearance_name>_LogoImage</theme_appearance_name>
+        </ajax_image>
+      </controls>
+      <dimensions x="423" y="43" cx="240" cy="90"/>
+      <id>CONTAINER_NORTH</id>
+      <scrollbars_type>1</scrollbars_type>
+      <theme_appearance_name>_HeaderContainer</theme_appearance_name>
+    </ajax_container>
+  </controls>
+</panel>

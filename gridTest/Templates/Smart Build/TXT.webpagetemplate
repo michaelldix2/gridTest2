@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?VersionInfo exeName="LegaSuite.exe" productName="lswb" exeVersion="8.3382.1.117" modelVersion="1.0" ?>
+<panel xmlns="http://www.seagullsoftware.com/schemas/legasuite/panel" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.seagullsoftware.com/schemas/legasuite/panel http://www.seagullsoftware.com/schemas/legasuite/webpagedefinition2_5.xsd">
+  <properties>
+    <title>Text layouts</title>
+    <id>TXT</id>
+    <dimensions x="0" y="0" cx="588" cy="336"/>
+    <screen_name>TXT</screen_name>
+    <panel_flags>
+      <update_on_host_change/>
+      <size_independent/>
+      <no_zorder/>
+    </panel_flags>
+    <codepage>1252</codepage>
+  </properties>
+  <menu_bar>
+    <menu>
+      <title>FUNCTION</title>
+      <id>FUNCTION</id>
+    </menu>
+  </menu_bar>
+  <controls>
+    <ajax_label>
+      <dimensions x="16" y="20" cx="53" cy="18"/>
+      <title>(ANY)</title>
+      <id/>
+      <FontColor>
+        <FontStyleName>Text.Label</FontStyleName>
+        <ColorForeground>74</ColorForeground>
+        <ColorBackground>79</ColorBackground>
+      </FontColor>
+      <ajax_opacity>100</ajax_opacity>
+      <ajax_layout_left>16</ajax_layout_left>
+      <ajax_opts_layout>
+        <ajax_layout_left_not_empty/>
+        <ajax_layout_top_not_empty/>
+      </ajax_opts_layout>
+      <ajax_layout_top>20</ajax_layout_top>
+    </ajax_label>
+    <ajax_label>
+      <dimensions x="77" y="20" cx="71" cy="18"/>
+      <title>(SAME)</title>
+      <FontColor>
+        <FontStyleName>Text.Label</FontStyleName>
+        <ColorForeground>74</ColorForeground>
+        <ColorBackground>79</ColorBackground>
+      </FontColor>
+      <right_mouse_menu_name>FUNCTION</right_mouse_menu_name>
+      <id/>
+      <ajax_opacity>100</ajax_opacity>
+      <ajax_opts_common>
+        <ajax_enable_right_mouse_menu/>
+      </ajax_opts_common>
+      <ajax_layout_left>67</ajax_layout_left>
+      <ajax_opts_layout>
+        <ajax_layout_left_not_empty/>
+        <ajax_layout_top_not_empty/>
+      </ajax_opts_layout>
+      <ajax_layout_top>20</ajax_layout_top>
+    </ajax_label>
+  </controls>
+</panel>

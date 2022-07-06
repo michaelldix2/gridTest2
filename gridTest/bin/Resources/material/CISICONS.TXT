@@ -1,0 +1,36 @@
+   1 (BMP) T        - Btn, Yellow happy face
+  10 (BMP) Exit     - Btn, red
+  20 (BMP) Cancel   - Btn, solid brt.red
+  30 (BMP) Cancel2  - Btn, red w/ red hilite
+  40 (BMP) Refresh  - Btn, arrows, no hilite
+  50 (BMP) Refresh3 - Btn, R <-
+  60 (BMP) ArrowL   - Btn, blue
+  70 (BMP) ArrowR   - Btn, blue
+  80 (BMP) QMark    - Btn, red
+  90 (BMP) Tool     - Btn, hammer
+ 100 (ICO) OS2Ed    -
+ 110 (BMP) QMarkB   - Btn, grey/black
+ 120 (BMP) QMarkC   - Btn, grey/black, 17x17 (small)
+ 130 (BMP) ArrowU   - Btn, blue
+ 140 (BMP) ArrowD   - Btn, blue
+ 150 (BMP) OV       - Btn, O.V.
+ 160 (BMP) Q        - Btn, Q
+ 170 (BMP) QMarkD   - Btn, blue
+ 200 (BMP) ID3Logo  - Big logo
+ 210 (BMP) NDP2     - Black text on grey
+ 220 (ICO) ID3b     - White on black, 32x32
+ 230 (ICO) WinWord  -
+ 240 (ICO) Excel    -
+ 250 (ICO) Dos      -
+ 260 (BMP) ArrowU2  - Btn, blue, triangle
+ 270 (BMP) ArrowD2  - Btn, blue, triangle
+ 500 (BMP) Tab21    - Two tab folder, tab 1
+ 510 (BMP) Tab22    - Two tab folder, tab 2
+ 520 (BMP) Tab31    - Three tab folder, tab 1
+ 530 (BMP) Tab32    - Three tab folder, tab 2
+ 540 (BMP) Tab33    - Three tab folder, tab 3
+ 550 (BMP) Tab41    - Four tab folder, tab 1
+ 560 (BMP) Tab42    - Four tab folder, tab 2
+ 570 (BMP) Tab43    - Four tab folder, tab 3
+ 580 (BMP) Tab44    - Four tab folder, tab 4
+ 900 (BMP) HOTSPOT  - 1x1, grey

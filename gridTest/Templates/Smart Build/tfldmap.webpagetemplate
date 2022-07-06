@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><?VersionInfo exeName="LegaSuite.exe" exeVersion="7.2543.1.23" modelVersion="1.0" ?><panel xmlns="http://www.seagullsoftware.com/schemas/legasuite/panel" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.seagullsoftware.com/schemas/legasuite/panel http://www.seagullsoftware.com/schemas/legasuite/paneldefinition3_0.xsd">
+  <properties>
+    <panel_flags>
+      <update_on_host_change/>
+      <size_independent/>
+      <no_zorder/>
+    </panel_flags>
+    <id>TFLDMAP</id>
+    <title>Field mapper</title>
+    <codepage>1252</codepage>
+    <dimensions x="0" y="0" cx="516" cy="354"/>
+    <FontColor>
+      <FontStyleName>Arial 10 Bold</FontStyleName>
+    </FontColor>
+  </properties>
+  <menu_bar/>
+  <controls>
+    <ajax_label>
+      <general_flags_2>
+        <visibility_equal_hide/>
+      </general_flags_2>
+      <title>S1BRAN=RAD1</title>
+      <dimensions x="6" y="14" cx="376" cy="16"/>
+      <FontColor>
+        <FontStyleName>Arial 10 Bold</FontStyleName>
+        <ColorBackground>50</ColorBackground>
+      </FontColor>
+      <id>TEXT1</id>
+      <ajax_opacity>100</ajax_opacity>
+      <ajax_opts_common>
+        <ajax_enable_text_expression/>
+      </ajax_opts_common>
+      <ajax_layout_left>6</ajax_layout_left>
+      <ajax_opts_layout>
+        <ajax_layout_left_not_empty/>
+        <ajax_layout_top_not_empty/>
+      </ajax_opts_layout>
+      <ajax_layout_top>14</ajax_layout_top>
+    </ajax_label>
+    <ajax_label>
+      <general_flags_2>
+        <visibility_equal_hide/>
+      </general_flags_2>
+      <title>S1CATE=RAD2</title>
+      <dimensions x="6" y="38" cx="376" cy="16"/>
+      <FontColor>
+        <FontStyleName>Arial 10 Bold</FontStyleName>
+        <ColorBackground>50</ColorBackground>
+      </FontColor>
+      <id>TEXT2</id>
+      <ajax_opacity>100</ajax_opacity>
+      <ajax_opts_common>
+        <ajax_enable_text_expression/>
+      </ajax_opts_common>
+      <ajax_layout_left>6</ajax_layout_left>
+      <ajax_opts_layout>
+        <ajax_layout_left_not_empty/>
+        <ajax_layout_top_not_empty/>
+      </ajax_opts_layout>
+      <ajax_layout_top>38</ajax_layout_top>
+    </ajax_label>
+  </controls>
+</panel>

@@ -1,0 +1,16 @@
+﻿Rem
+Rem Script file
+Rem
+Option Explicit
+panelupdateenable(0)
+hostfieldputdata("USERNAME", 0, "jde")
+Hostscreensendkey("RIGHT TAB")
+hostfieldputdata("PASSWORD", 0, "WORLD93")
+Hostscreensendkey("Enter")
+hostwaitII()
+hostscreenputstring("g42112")
+Hostscreensendkey("Enter")
+hostwaitII()
+hostscreenputstring("2")
+Hostscreensendkey("Enter")
+panelupdateenable(3)

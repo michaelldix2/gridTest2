@@ -1,0 +1,40 @@
+Generating Ini file... Done
+No resource files to publish
+Publishing package file 'gridTest':
+Included template set(s)                               : Default
+Product                                                : LegaSuite Web Builder for 5250
+Version                                                : Version 10.1.4 (build 10.3941.0.0)
+Compiled filename                                      : C:\Users\mdix\workspace\10.1.4\Customers\gridTest\bin\gridTest.lwr
+Project                                                : C:\Users\mdix\workspace\10.1.4\Customers\gridTest
+Emulator work file                                     : gridTest.lwe
+Page work file                                         : gridTest.lwa
+Message file                                           : 
+Translation                                            : 
+Publish version                                        : 
+Company name                                           : Rocket Software
+Application title                                      : gridTest
+Initial licenses                                       : 9999
+Options                                                : Verify off
+Validate (embedded) scripts                            : no
+Set clipping for overlapping fields                    : no
+Sort page fields                                       : no
+Encryption  method:                                    : None
+Compression method:                                    : Zlib
+Package File is Hashed:                                : yes
+Maximize at start                                      : no
+Assign Mnemonics                                       : no
+Function keys to session                               : yes
+Line 25 message box                                    : no
+Remove pseudo_underline in entry fields                : no
+Allow right click menus on disabled fields             : no
+Allow host cursor move to disabled fields              : no
+Use Parent Background color for static fields          : no
+Allow use other projects data                          : no
+Resize list box row height before adjusting font size  : no
+Fallback package                                       : no
+Application popup position                             : Default
+Script text file codepage                              : 0
+Development package                                    : no
+No errors encountered during publication.
+Process finished in 1.344 seconds
+

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?VersionInfo exeName="LegaSuite.exe" productName="lswb" exeVersion="8.3821.0.0" modelVersion="1.1" ?>
+<panel xmlns="http://www.seagullsoftware.com/schemas/legasuite/panel" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.seagullsoftware.com/schemas/legasuite/panel http://www.seagullsoftware.com/schemas/legasuite/webpagedefinition2_6.xsd">
+  <properties/>
+  <controls>
+    <ajax_button>
+      <ajax_center>1</ajax_center>
+      <ajax_layout_allow_grow_x>2</ajax_layout_allow_grow_x>
+      <ajax_layout_allow_grow_y>2</ajax_layout_allow_grow_y>
+      <ajax_layout_allow_shrink_x>2</ajax_layout_allow_shrink_x>
+      <ajax_layout_allow_shrink_y>2</ajax_layout_allow_shrink_y>
+      <ajax_opacity>100</ajax_opacity>
+      <dimensions x="10" y="10" cx="28" cy="24"/>
+      <field_flags>
+        <tab_stop/>
+      </field_flags>
+      <id>BUTTON</id>
+      <script>Dim fieldid as String
+Dim x as integer
+Dim y as integer
+Dim found_position as integer
+Dim found_length as integer
+
+PanelNameGet(6, fieldid)
+fieldid = InstrRegExp(1, fieldid, &quot;FLD[0-9]+&quot;, found_position, found_length)
+HostFieldGetProp(fieldid, 7, x)
+HostFieldGetProp(fieldid, 6, y)
+HostCursorPut(y, x)
+HostScreenSendKey(&quot;Left Tab&quot;)
+&apos;HostScreenSendKey(&quot;F4&quot;)
+</script>
+      <send_key>0</send_key>
+      <theme_appearance_name>_DynamicNavbarButton</theme_appearance_name>
+      <title>+</title>
+    </ajax_button>
+  </controls>
+</panel>

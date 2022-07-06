@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?VersionInfo exeName="LegaSuite.exe" productName="lswb" exeVersion="10.3941.0.0" modelVersion="1.0" ?>
+<OisObject>
+   <ScriptCall function="LOGIN"/>
+   <Filters>
+      <Filter>Command</Filter>
+   </Filters>
+</OisObject>

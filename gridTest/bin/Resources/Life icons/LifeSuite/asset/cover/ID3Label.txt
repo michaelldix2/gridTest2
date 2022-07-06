@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<flow:TextFlow whiteSpaceCollapse='preserve' xmlns:flow='http://ns.adobe.com/textLayout/2008'><flow:p><flow:span>ID</flow:span><flow:span baselineShift='superscript'>3</flow:span><flow:span> - Full Spectrum Administration</flow:span></flow:p><flow:p><flow:span></flow:span></flow:p>

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?VersionInfo exeName="LegaSuite.exe" productName="lswb" exeVersion="10.3941.0.0" modelVersion="1.0" ?>
+<UserColors xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="UserColors.xsd">
+   <UserColor mappable="1" name="Red cool">
+      <RgbColor blue="0" green="0" red="213"/>
+   </UserColor>
+   <UserColor mappable="1" name="Project color 02">
+      <RgbColor blue="0" green="0" red="0"/>
+   </UserColor>
+   <UserColor mappable="false" name="PC Normal foreground">
+      <RgbColor blue="0" green="0" red="0"/>
+   </UserColor>
+   <UserColor mappable="false" name="PC Normal background">
+      <RgbColor blue="255" green="255" red="255"/>
+   </UserColor>
+   <UserColor mappable="false" name="PC Window text">
+      <RgbColor blue="0" green="0" red="0"/>
+   </UserColor>
+   <UserColor mappable="false" name="PC Output text">
+      <RgbColor blue="0" green="0" red="0"/>
+   </UserColor>
+   <UserColor mappable="false" name="PC Push button - middle">
+      <RgbColor blue="240" green="240" red="240"/>
+   </UserColor>
+   <UserColor mappable="false" name="PC Entry field - background">
+      <RgbColor blue="255" green="255" red="255"/>
+   </UserColor>
+   <UserColor mappable="false" name="PC Window frame">
+      <RgbColor blue="100" green="100" red="100"/>
+   </UserColor>
+   <UserColor mappable="false" name="PC Window">
+      <RgbColor blue="255" green="255" red="255"/>
+   </UserColor>
+   <UserColor mappable="false" name="PC Active border">
+      <RgbColor blue="180" green="180" red="180"/>
+   </UserColor>
+   <UserColor mappable="true" name="PC Active title">
+      <RgbColor blue="182" green="131" red="76"/>
+   </UserColor>
+   <UserColor mappable="false" name="PC Active title text">
+      <RgbColor blue="255" green="255" red="255"/>
+   </UserColor>
+   <UserColor mappable="false" name="PC Inactive title - text">
+      <RgbColor blue="0" green="0" red="0"/>
+   </UserColor>
+   <UserColor name="Project color 15">
+      <RgbColor blue="39" green="139" red="117"/>
+   </UserColor>
+   <UserColor name="Project color 16">
+      <RgbColor blue="137" green="89" red="41"/>
+   </UserColor>
+   <UserColor name="Project color 17">
+      <RgbColor blue="237" green="203" red="167"/>
+   </UserColor>
+   <UserColor name="Project color 18">
+      <RgbColor blue="215" green="221" red="210"/>
+   </UserColor>
+   <UserColor name="Project color 19">
+      <RgbColor blue="255" green="245" red="235"/>
+   </UserColor>
+   <UserColor name="Project color 20">
+      <RgbColor blue="251" green="239" red="229"/>
+   </UserColor>
+   <UserColor name="Project color 21">
+      <RgbColor blue="236" green="227" red="219"/>
+   </UserColor>
+   <UserColor name="Project color 22">
+      <RgbColor blue="252" green="226" red="177"/>
+   </UserColor>
+   <UserColor name="Project color 23">
+      <RgbColor blue="245" green="229" red="212"/>
+   </UserColor>
+   <UserColor name="Project color 24">
+      <RgbColor blue="100" green="60" red="20"/>
+   </UserColor>
+   <UserColor name="Project color 25">
+      <RgbColor blue="0" green="0" red="0"/>
+   </UserColor>
+   <UserColor name="Project color 26">
+      <RgbColor blue="0" green="0" red="0"/>
+   </UserColor>
+   <UserColor name="Project color 27">
+      <RgbColor blue="0" green="0" red="0"/>
+   </UserColor>
+   <UserColor name="Project color 28">
+      <RgbColor blue="0" green="0" red="0"/>
+   </UserColor>
+   <UserColor name="Project color 29">
+      <RgbColor blue="0" green="0" red="0"/>
+   </UserColor>
+   <UserColor name="Project color 30">
+      <RgbColor blue="0" green="0" red="0"/>
+   </UserColor>
+   <UserColor name="Project color 31">
+      <RgbColor blue="0" green="0" red="0"/>
+   </UserColor>
+   <UserColor name="Project color 32">
+      <RgbColor blue="0" green="0" red="0"/>
+   </UserColor>
+   <UserColor name="Project color 33">
+      <RgbColor blue="0" green="0" red="0"/>
+   </UserColor>
+   <UserColor name="Project color 34">
+      <RgbColor blue="0" green="0" red="0"/>
+   </UserColor>
+   <UserColor name="Project color 35">
+      <RgbColor blue="0" green="0" red="0"/>
+   </UserColor>
+   <UserColor name="Project color 36">
+      <RgbColor blue="0" green="0" red="0"/>
+   </UserColor>
+   <UserColor name="Project color 37">
+      <RgbColor blue="0" green="0" red="0"/>
+   </UserColor>
+   <UserColor name="Project color 38">
+      <RgbColor blue="0" green="0" red="0"/>
+   </UserColor>
+   <UserColor name="Project color 39">
+      <RgbColor blue="0" green="0" red="0"/>
+   </UserColor>
+   <UserColor name="Project color 40">
+      <RgbColor blue="0" green="0" red="0"/>
+   </UserColor>
+</UserColors>

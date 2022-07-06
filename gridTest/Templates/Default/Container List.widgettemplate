@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?VersionInfo exeName="LegaSuite.exe" productName="lswb" exeVersion="8.3821.0.0" modelVersion="1.1" ?>
+<panel xmlns="http://www.seagullsoftware.com/schemas/legasuite/panel" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.seagullsoftware.com/schemas/legasuite/panel http://www.seagullsoftware.com/schemas/legasuite/webpagedefinition2_6.xsd">
+  <properties/>
+  <controls>
+    <ajax_container_list>
+      <ajax_grid_flags>
+        <ajax_statusbar_hide/>
+      </ajax_grid_flags>
+      <dimensions x="13" y="13" cx="498" cy="211"/>
+      <header_height>24</header_height>
+      <id>CONTAINER_LIST</id>
+      <theme_appearance_name>__ListPaging</theme_appearance_name>
+      <ajax_container_list_column>
+        <ajax_layout_flex>1</ajax_layout_flex>
+        <column_width>50</column_width>
+        <controls/>
+        <id>CONTAINER_LIST_COLUMN</id>
+      </ajax_container_list_column>
+    </ajax_container_list>
+  </controls>
+</panel>

@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?VersionInfo exeName="LegaSuite.exe" exeVersion="7.2801.1.26" modelVersion="1.0" ?>
+<panel xmlns="http://www.seagullsoftware.com/schemas/legasuite/panel" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.seagullsoftware.com/schemas/legasuite/panel http://www.seagullsoftware.com/schemas/legasuite/paneldefinition3_0.xsd">
+  <properties>
+    <title>Push buttons to be excluded</title>
+    <id>PSHEXC</id>
+    <dimensions x="0" y="0" cx="588" cy="336"/>
+    <panel_flags>
+      <update_on_host_change/>
+      <size_independent/>
+      <no_zorder/>
+    </panel_flags>
+    <codepage>1252</codepage>
+  </properties>
+  <menu_bar/>
+  <controls>
+    <ajax_button>
+      <dimensions x="13" y="20" cx="81" cy="24"/>
+      <field_flags>
+        <tab_stop/>
+      </field_flags>
+      <send_key>27</send_key>
+      <general_flags_2>
+        <state_dependent/>
+      </general_flags_2>
+      <title>More keys</title>
+      <id>BUTTON1</id>
+      <FontColor>
+        <FontStyleName>Text.SubfileOptions</FontStyleName>
+        <ColorForeground>0</ColorForeground>
+        <ColorBackground>0</ColorBackground>
+      </FontColor>
+      <ajax_opacity>100</ajax_opacity>
+      <ajax_layout_left>13</ajax_layout_left>
+      <ajax_opts_layout>
+        <ajax_layout_left_not_empty/>
+        <ajax_layout_top_not_empty/>
+        <ajax_layout_max_width_not_empty/>
+        <ajax_layout_max_height_not_empty/>
+        <ajax_layout_min_width_not_empty/>
+        <ajax_layout_min_height_not_empty/>
+      </ajax_opts_layout>
+      <ajax_layout_top>20</ajax_layout_top>
+      <ajax_max_width>141</ajax_max_width>
+      <ajax_max_height>28</ajax_max_height>
+      <ajax_min_width>141</ajax_min_width>
+      <ajax_min_height>28</ajax_min_height>
+      <ajax_center>1</ajax_center>
+    </ajax_button>
+    <ajax_button>
+      <dimensions x="15" y="68" cx="81" cy="24"/>
+      <field_flags>
+        <tab_stop/>
+      </field_flags>
+      <send_key>2</send_key>
+      <general_flags_2>
+        <state_dependent/>
+      </general_flags_2>
+      <title>(ANY)</title>
+      <FontColor>
+        <FontStyleName>Text.SubfileOptions</FontStyleName>
+        <ColorForeground>0</ColorForeground>
+        <ColorBackground>0</ColorBackground>
+      </FontColor>
+      <id>BUTTON2</id>
+      <ajax_opacity>100</ajax_opacity>
+      <ajax_layout_left>15</ajax_layout_left>
+      <ajax_opts_layout>
+        <ajax_layout_left_not_empty/>
+        <ajax_layout_top_not_empty/>
+        <ajax_layout_max_width_not_empty/>
+        <ajax_layout_max_height_not_empty/>
+        <ajax_layout_min_width_not_empty/>
+        <ajax_layout_min_height_not_empty/>
+      </ajax_opts_layout>
+      <ajax_layout_top>50</ajax_layout_top>
+      <ajax_max_width>141</ajax_max_width>
+      <ajax_max_height>28</ajax_max_height>
+      <ajax_min_width>141</ajax_min_width>
+      <ajax_min_height>28</ajax_min_height>
+      <ajax_center>1</ajax_center>
+    </ajax_button>
+    <ajax_button>
+      <dimensions x="15" y="106" cx="81" cy="24"/>
+      <field_flags>
+        <tab_stop/>
+      </field_flags>
+      <send_key>3</send_key>
+      <general_flags_2>
+        <state_dependent/>
+      </general_flags_2>
+      <title>(ANY)</title>
+      <FontColor>
+        <FontStyleName>Text.SubfileOptions</FontStyleName>
+        <ColorForeground>0</ColorForeground>
+        <ColorBackground>0</ColorBackground>
+      </FontColor>
+      <id>BUTTON3</id>
+      <ajax_opacity>100</ajax_opacity>
+      <ajax_layout_left>15</ajax_layout_left>
+      <ajax_opts_layout>
+        <ajax_layout_left_not_empty/>
+        <ajax_layout_top_not_empty/>
+        <ajax_layout_max_width_not_empty/>
+        <ajax_layout_max_height_not_empty/>
+        <ajax_layout_min_width_not_empty/>
+        <ajax_layout_min_height_not_empty/>
+      </ajax_opts_layout>
+      <ajax_layout_top>78</ajax_layout_top>
+      <ajax_max_width>141</ajax_max_width>
+      <ajax_max_height>28</ajax_max_height>
+      <ajax_min_width>141</ajax_min_width>
+      <ajax_min_height>28</ajax_min_height>
+      <ajax_center>1</ajax_center>
+    </ajax_button>
+  </controls>
+</panel>

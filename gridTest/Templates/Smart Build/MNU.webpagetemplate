@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?VersionInfo exeName="LegaSuite.exe" exeVersion="7.2801.1.26" modelVersion="1.0" ?>
+<panel xmlns="http://www.seagullsoftware.com/schemas/legasuite/panel" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.seagullsoftware.com/schemas/legasuite/panel http://www.seagullsoftware.com/schemas/legasuite/paneldefinition3_0.xsd">
+  <properties>
+    <title>Menu button layouts</title>
+    <id>MNU</id>
+    <dimensions x="0" y="0" cx="588" cy="336"/>
+    <screen_name>MNU</screen_name>
+    <panel_flags>
+      <update_on_host_change/>
+      <size_independent/>
+      <no_zorder/>
+    </panel_flags>
+    <codepage>1252</codepage>
+  </properties>
+  <menu_bar>
+    <menu>
+      <title>FUNCTION</title>
+      <id>FUNCTION</id>
+    </menu>
+  </menu_bar>
+  <controls>
+    <ajax_button>
+      <dimensions x="12" y="16" cx="54" cy="24"/>
+      <field_flags>
+        <tab_stop/>
+      </field_flags>
+      <id>(ANY)</id>
+      <ois_object>(ANY)</ois_object>
+      <host_field>(ANY)</host_field>
+      <panel_next>(ANY)</panel_next>
+      <list_name>(ANY)</list_name>
+      <string_send>(ANY)</string_send>
+      <general_flags_2>
+        <state_dependent/>
+        <visibility_output_data_disable/>
+      </general_flags_2>
+      <title>(ANY)</title>
+      <FontColor>
+        <FontStyleName>Text.SubfileOptions</FontStyleName>
+      </FontColor>
+      <ajax_opacity>100</ajax_opacity>
+      <ajax_opts_common>
+        <ajax_enable_host_condition/>
+      </ajax_opts_common>
+      <ajax_layout_left>12</ajax_layout_left>
+      <ajax_opts_layout>
+        <ajax_layout_left_not_empty/>
+        <ajax_layout_top_not_empty/>
+      </ajax_opts_layout>
+      <ajax_layout_top>16</ajax_layout_top>
+      <ajax_center>1</ajax_center>
+    </ajax_button>
+    <ajax_button>
+      <dimensions x="75" y="16" cx="60" cy="26"/>
+      <field_flags>
+        <tab_stop/>
+      </field_flags>
+      <id>(SAME)</id>
+      <host_field>(SAME)</host_field>
+      <panel_next>(SAME)</panel_next>
+      <list_name>(SAME)</list_name>
+      <string_send>(SAME)</string_send>
+      <send_key>1</send_key>
+      <title>(SAME)</title>
+      <FontColor>
+        <FontStyleName>Text.SubfileOptions</FontStyleName>
+        <ColorForeground>73</ColorForeground>
+        <ColorBackground>72</ColorBackground>
+      </FontColor>
+      <general_flags_3/>
+      <right_mouse_menu_name>FUNCTION</right_mouse_menu_name>
+      <ajax_opacity>100</ajax_opacity>
+      <ajax_opts_common>
+        <ajax_enable_right_mouse_menu/>
+      </ajax_opts_common>
+      <ajax_layout_left>75</ajax_layout_left>
+      <ajax_opts_layout>
+        <ajax_layout_left_not_empty/>
+        <ajax_layout_top_not_empty/>
+      </ajax_opts_layout>
+      <ajax_layout_top>16</ajax_layout_top>
+      <ajax_center>1</ajax_center>
+    </ajax_button>
+  </controls>
+</panel>

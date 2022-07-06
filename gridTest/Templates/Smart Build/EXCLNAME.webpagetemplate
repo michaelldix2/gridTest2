@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?VersionInfo exeName="LegaSuite.exe" productName="lswb" exeVersion="8.3843.2.270" modelVersion="1.1" ?>
+<panel xmlns="http://www.seagullsoftware.com/schemas/legasuite/panel" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.seagullsoftware.com/schemas/legasuite/panel http://www.seagullsoftware.com/schemas/legasuite/webpagedefinition2_6.xsd">
+  <properties>
+    <dimensions x="0" y="0" cx="920" cy="631"/>
+    <FontColor/>
+    <id>EXCLNAME</id>
+    <panel_flags>
+      <no_zorder/>
+      <size_independent/>
+      <update_on_host_change/>
+    </panel_flags>
+    <title>Host fields  to be excluded</title>
+  </properties>
+  <controls>
+    <ajax_label>
+      <ajax_opts_common>
+        <ajax_enable_text_expression/>
+      </ajax_opts_common>
+      <dimensions x="15" y="14" cx="535" cy="20"/>
+      <field_flags/>
+      <FontColor/>
+      <general_flags_1/>
+      <general_flags_2>
+        <visibility_equal_hide/>
+      </general_flags_2>
+      <id>TEXT1</id>
+      <theme_appearance_name>__Label</theme_appearance_name>
+      <title>Add host field names to be excluded during SmartBuild as panel fields on this template.</title>
+    </ajax_label>
+    <ajax_label>
+      <ajax_layout_left>10</ajax_layout_left>
+      <ajax_layout_top>10</ajax_layout_top>
+      <ajax_opacity>100</ajax_opacity>
+      <ajax_opts_layout>
+        <ajax_layout_left_not_empty/>
+        <ajax_layout_top_not_empty/>
+      </ajax_opts_layout>
+      <dimensions x="49" y="62" cx="90" cy="24"/>
+      <id>LABEL1</id>
+      <theme_appearance_name>_ContentsLabel</theme_appearance_name>
+      <title>(MESSAGE)</title>
+    </ajax_label>
+    <ajax_label>
+      <ajax_layout_left>10</ajax_layout_left>
+      <ajax_layout_top>10</ajax_layout_top>
+      <ajax_opacity>100</ajax_opacity>
+      <ajax_opts_layout>
+        <ajax_layout_left_not_empty/>
+        <ajax_layout_top_not_empty/>
+      </ajax_opts_layout>
+      <dimensions x="51" y="96" cx="90" cy="24"/>
+      <id>LABEL2</id>
+      <theme_appearance_name>_ContentsLabel</theme_appearance_name>
+      <title>(TITLE)</title>
+    </ajax_label>
+    <ajax_label>
+      <ajax_layout_left>10</ajax_layout_left>
+      <ajax_layout_top>10</ajax_layout_top>
+      <ajax_opacity>100</ajax_opacity>
+      <ajax_opts_layout>
+        <ajax_layout_left_not_empty/>
+        <ajax_layout_top_not_empty/>
+      </ajax_opts_layout>
+      <dimensions x="51" y="180" cx="90" cy="24"/>
+      <id>LABEL5</id>
+      <theme_appearance_name>_ContentsLabel</theme_appearance_name>
+      <title>(ANY)TIME</title>
+    </ajax_label>
+    <ajax_label>
+      <ajax_layout_left>10</ajax_layout_left>
+      <ajax_layout_top>10</ajax_layout_top>
+      <ajax_opacity>100</ajax_opacity>
+      <ajax_opts_layout>
+        <ajax_layout_left_not_empty/>
+        <ajax_layout_top_not_empty/>
+      </ajax_opts_layout>
+      <dimensions x="51" y="236" cx="90" cy="24"/>
+      <id>LABEL7</id>
+      <theme_appearance_name>_ContentsLabel</theme_appearance_name>
+      <title>(HINT)</title>
+    </ajax_label>
+    <ajax_label>
+      <ajax_layout_left>10</ajax_layout_left>
+      <ajax_layout_top>10</ajax_layout_top>
+      <ajax_opacity>100</ajax_opacity>
+      <ajax_opts_layout>
+        <ajax_layout_left_not_empty/>
+        <ajax_layout_top_not_empty/>
+      </ajax_opts_layout>
+      <dimensions x="51" y="264" cx="90" cy="24"/>
+      <id>LABEL8</id>
+      <theme_appearance_name>_ContentsLabel</theme_appearance_name>
+      <title>$ERROR</title>
+    </ajax_label>
+  </controls>
+</panel>

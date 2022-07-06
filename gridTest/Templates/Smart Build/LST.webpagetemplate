@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?VersionInfo exeName="LegaSuite.exe" exeVersion="7.2801.1.26" modelVersion="1.0" ?>
+<panel xmlns="http://www.seagullsoftware.com/schemas/legasuite/panel" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.seagullsoftware.com/schemas/legasuite/panel http://www.seagullsoftware.com/schemas/legasuite/paneldefinition3_0.xsd">
+  <properties>
+    <title>Listbox layout</title>
+    <id>LST</id>
+    <dimensions x="0" y="0" cx="588" cy="336"/>
+    <panel_flags>
+      <update_on_host_change/>
+      <size_independent/>
+      <no_zorder/>
+    </panel_flags>
+    <codepage>1252</codepage>
+  </properties>
+  <menu_bar>
+    <menu>
+      <title>OPTIONS</title>
+      <id>OPTIONS</id>
+    </menu>
+  </menu_bar>
+  <controls>
+    <ajax_grid>
+      <dimensions x="10" y="16" cx="208" cy="180"/>
+      <field_flags>
+        <tab_stop/>
+      </field_flags>
+      <list_box_flags>
+        <selection_none/>
+      </list_box_flags>
+      <id>(LIST)</id>
+      <key_page_up>2</key_page_up>
+      <key_page_down>3</key_page_down>
+      <header_height>20</header_height>
+      <FontColorHeader>
+        <FontStyleName>Text.ColumnHeadings</FontStyleName>
+        <ColorForeground>61</ColorForeground>
+        <ColorBackground>77</ColorBackground>
+      </FontColorHeader>
+      <FontColor>
+        <FontStyleName>Text.ColumnData</FontStyleName>
+        <ColorForeground>74</ColorForeground>
+        <ColorBackground>80</ColorBackground>
+      </FontColor>
+      <right_mouse_menu_name>OPTIONS</right_mouse_menu_name>
+      <general_flags_2/>
+      <ajax_grid_flags>
+        <ajax_show_lines_btw_columns/>
+        <ajax_statusbar_hide/>
+        <ajax_enable_alternate_row_colors/>
+      </ajax_grid_flags>
+      <ajax_opts_common>
+        <ajax_enable_right_mouse_menu/>
+      </ajax_opts_common>
+      <ajax_filter_field_length>100</ajax_filter_field_length>
+      <ajax_layout_left>10</ajax_layout_left>
+      <ajax_opts_layout>
+        <ajax_layout_left_not_empty/>
+        <ajax_layout_top_not_empty/>
+      </ajax_opts_layout>
+      <ajax_layout_top>16</ajax_layout_top>
+      <ajax_grid_column>
+        <host_field>(ANY)</host_field>
+        <title>(ANY)</title>
+        <column_width_chars>100</column_width_chars>
+        <id>LSTCOL1</id>
+      </ajax_grid_column>
+      <ajax_grid_column>
+        <host_field>(ANY)</host_field>
+        <title>(ANY)</title>
+        <column_width_chars>102</column_width_chars>
+        <id>LSTCOL2</id>
+      </ajax_grid_column>
+      <FontColorListAlternate>
+        <ColorForeground>74</ColorForeground>
+        <ColorBackground>83</ColorBackground>
+      </FontColorListAlternate>
+    </ajax_grid>
+  </controls>
+</panel>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?VersionInfo exeName="LegaSuite.exe" productName="lswb" exeVersion="8.3837.0.0" modelVersion="1.1" ?>
+<panel xmlns="http://www.seagullsoftware.com/schemas/legasuite/panel" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.seagullsoftware.com/schemas/legasuite/panel http://www.seagullsoftware.com/schemas/legasuite/webpagedefinition2_6.xsd">
+  <properties/>
+  <controls>
+    <ajax_text>
+      <ajax_layout_allow_grow_x>2</ajax_layout_allow_grow_x>
+      <ajax_layout_allow_shrink_x>2</ajax_layout_allow_shrink_x>
+      <ajax_opacity>100</ajax_opacity>
+      <ajax_opts_common>
+        <ajax_enable_host_condition/>
+        <ajax_visibility_not_present_exclude/>
+      </ajax_opts_common>
+      <dimensions x="10" y="10" cx="120" cy="24"/>
+      <field_flags>
+        <tab_stop/>
+      </field_flags>
+      <field_length length="0" field_type="0" check_direct="0"/>
+      <general_flags_1>
+        <output_when_read_only/>
+        <right_aligned/>
+      </general_flags_1>
+      <general_flags_2>
+        <visibility_output_data_disable/>
+        <visibility_output_empty_disable/>
+      </general_flags_2>
+      <id>TEXT</id>
+      <theme_appearance_name>_DynamicInputFieldNumeric</theme_appearance_name>
+    </ajax_text>
+  </controls>
+</panel>

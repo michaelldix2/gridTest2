@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?VersionInfo exeName="LegaSuite.exe" exeVersion="7.2801.1.26" modelVersion="1.0" ?>
+<panel xmlns="http://www.seagullsoftware.com/schemas/legasuite/panel" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.seagullsoftware.com/schemas/legasuite/panel http://www.seagullsoftware.com/schemas/legasuite/paneldefinition3_0.xsd">
+  <properties>
+    <title>Texts to be excluded</title>
+    <id>TXTEXC</id>
+    <dimensions x="0" y="0" cx="588" cy="336"/>
+    <panel_flags>
+      <update_on_host_change/>
+      <size_independent/>
+      <no_zorder/>
+    </panel_flags>
+    <codepage>1252</codepage>
+  </properties>
+  <menu_bar>
+    <menu>
+      <title>HELP</title>
+      <id>HELP</id>
+    </menu>
+    <menu>
+      <title>FUNCTION</title>
+      <id>FUNCTION</id>
+    </menu>
+  </menu_bar>
+  <controls>
+    <ajax_label>
+      <dimensions x="15" y="36" cx="254" cy="18"/>
+      <general_flags_1/>
+      <title>Select one of the following(ANY)</title>
+      <id>TEXT1</id>
+      <FontColor>
+        <FontStyleName>Text.Data</FontStyleName>
+        <ColorBackground>79</ColorBackground>
+      </FontColor>
+      <ajax_opacity>100</ajax_opacity>
+      <ajax_layout_left>15</ajax_layout_left>
+      <ajax_opts_layout>
+        <ajax_layout_left_not_empty/>
+        <ajax_layout_top_not_empty/>
+      </ajax_opts_layout>
+      <ajax_layout_top>40</ajax_layout_top>
+    </ajax_label>
+    <ajax_label>
+      <dimensions x="15" y="56" cx="194" cy="18"/>
+      <general_flags_1/>
+      <title>Press (ANY) to continue</title>
+      <id>TEXT2</id>
+      <FontColor>
+        <FontStyleName>Text.Data</FontStyleName>
+        <ColorBackground>79</ColorBackground>
+      </FontColor>
+      <ajax_opacity>100</ajax_opacity>
+      <ajax_layout_left>15</ajax_layout_left>
+      <ajax_opts_layout>
+        <ajax_layout_left_not_empty/>
+        <ajax_layout_top_not_empty/>
+      </ajax_opts_layout>
+      <ajax_layout_top>60</ajax_layout_top>
+    </ajax_label>
+    <ajax_label>
+      <dimensions x="15" y="76" cx="209" cy="18"/>
+      <general_flags_1/>
+      <title>Type choices, press (ANY)</title>
+      <id>TEXT3</id>
+      <FontColor>
+        <FontStyleName>Text.Data</FontStyleName>
+        <ColorBackground>79</ColorBackground>
+      </FontColor>
+      <ajax_opacity>100</ajax_opacity>
+      <ajax_layout_left>15</ajax_layout_left>
+      <ajax_opts_layout>
+        <ajax_layout_left_not_empty/>
+        <ajax_layout_top_not_empty/>
+      </ajax_opts_layout>
+      <ajax_layout_top>80</ajax_layout_top>
+    </ajax_label>
+    <ajax_label>
+      <dimensions x="15" y="96" cx="179" cy="18"/>
+      <general_flags_1/>
+      <title>Selection or command</title>
+      <id>TEXT4</id>
+      <FontColor>
+        <FontStyleName>Text.Data</FontStyleName>
+        <ColorBackground>79</ColorBackground>
+      </FontColor>
+      <ajax_opacity>100</ajax_opacity>
+      <ajax_layout_left>15</ajax_layout_left>
+      <ajax_opts_layout>
+        <ajax_layout_left_not_empty/>
+        <ajax_layout_top_not_empty/>
+      </ajax_opts_layout>
+      <ajax_layout_top>100</ajax_layout_top>
+    </ajax_label>
+    <ajax_label>
+      <dimensions x="15" y="116" cx="84" cy="18"/>
+      <general_flags_1/>
+      <title>Bottom</title>
+      <id>TEXT5</id>
+      <FontColor>
+        <FontStyleName>Text.Data</FontStyleName>
+        <ColorBackground>79</ColorBackground>
+      </FontColor>
+      <ajax_opacity>100</ajax_opacity>
+      <ajax_layout_left>15</ajax_layout_left>
+      <ajax_opts_layout>
+        <ajax_layout_left_not_empty/>
+        <ajax_layout_top_not_empty/>
+      </ajax_opts_layout>
+      <ajax_layout_top>120</ajax_layout_top>
+    </ajax_label>
+    <ajax_label>
+      <dimensions x="15" y="138" cx="69" cy="18"/>
+      <general_flags_1/>
+      <title>More</title>
+      <id>TEXT6</id>
+      <FontColor>
+        <FontStyleName>Text.Data</FontStyleName>
+        <ColorBackground>79</ColorBackground>
+      </FontColor>
+      <ajax_opacity>100</ajax_opacity>
+      <ajax_layout_left>15</ajax_layout_left>
+      <ajax_opts_layout>
+        <ajax_layout_left_not_empty/>
+        <ajax_layout_top_not_empty/>
+      </ajax_opts_layout>
+      <ajax_layout_top>140</ajax_layout_top>
+    </ajax_label>
+    <ajax_label>
+      <dimensions x="15" y="160" cx="281" cy="18"/>
+      <general_flags_1/>
+      <title>Type options below, then press(ANY)</title>
+      <id>TEXT7</id>
+      <FontColor>
+        <FontStyleName>Text.Data</FontStyleName>
+        <ColorBackground>79</ColorBackground>
+      </FontColor>
+      <ajax_opacity>100</ajax_opacity>
+      <ajax_layout_left>15</ajax_layout_left>
+      <ajax_opts_layout>
+        <ajax_layout_left_not_empty/>
+        <ajax_layout_top_not_empty/>
+      </ajax_opts_layout>
+      <ajax_layout_top>160</ajax_layout_top>
+    </ajax_label>
+    <ajax_label>
+      <dimensions x="18" y="182" cx="98" cy="18"/>
+      <general_flags_1/>
+      <title>Selection</title>
+      <id>TEXT8</id>
+      <FontColor>
+        <FontStyleName>Text.Data</FontStyleName>
+        <ColorBackground>79</ColorBackground>
+      </FontColor>
+      <ajax_opacity>100</ajax_opacity>
+      <ajax_layout_left>18</ajax_layout_left>
+      <ajax_opts_layout>
+        <ajax_layout_left_not_empty/>
+        <ajax_layout_top_not_empty/>
+      </ajax_opts_layout>
+      <ajax_layout_top>180</ajax_layout_top>
+    </ajax_label>
+    <ajax_label>
+      <dimensions x="18" y="203" cx="87" cy="18"/>
+      <general_flags_1/>
+      <title>Options</title>
+      <id>TEXT9</id>
+      <FontColor>
+        <FontStyleName>Text.Data</FontStyleName>
+        <ColorBackground>79</ColorBackground>
+      </FontColor>
+      <ajax_opacity>100</ajax_opacity>
+      <ajax_layout_left>18</ajax_layout_left>
+      <ajax_opts_layout>
+        <ajax_layout_left_not_empty/>
+        <ajax_layout_top_not_empty/>
+      </ajax_opts_layout>
+      <ajax_layout_top>198</ajax_layout_top>
+    </ajax_label>
+    <ajax_label>
+      <dimensions x="16" y="225" cx="345" cy="18"/>
+      <title>Type search criteria or options.  Press Enter</title>
+      <FontColor>
+        <FontStyleName>Text.Data</FontStyleName>
+        <ColorBackground>79</ColorBackground>
+      </FontColor>
+      <id>TEXT10</id>
+      <ajax_opacity>100</ajax_opacity>
+      <ajax_layout_left>16</ajax_layout_left>
+      <ajax_opts_layout>
+        <ajax_layout_left_not_empty/>
+        <ajax_layout_top_not_empty/>
+      </ajax_opts_layout>
+      <ajax_layout_top>218</ajax_layout_top>
+    </ajax_label>
+    <ajax_label>
+      <dimensions x="16" y="248" cx="321" cy="18"/>
+      <title>Type selection criteria.  Press Enter</title>
+      <FontColor>
+        <FontStyleName>Text.Data</FontStyleName>
+        <ColorForeground>74</ColorForeground>
+        <ColorBackground>79</ColorBackground>
+      </FontColor>
+      <id>TEXT11</id>
+      <ajax_opacity>100</ajax_opacity>
+      <ajax_layout_left>16</ajax_layout_left>
+      <ajax_opts_layout>
+        <ajax_layout_left_not_empty/>
+        <ajax_layout_top_not_empty/>
+      </ajax_opts_layout>
+      <ajax_layout_top>244</ajax_layout_top>
+    </ajax_label>
+    <ajax_label>
+      <dimensions x="15" y="272" cx="383" cy="18"/>
+      <title>Type selection criteria or options.  Press Enter</title>
+      <FontColor>
+        <FontStyleName>Text.Data</FontStyleName>
+        <ColorForeground>74</ColorForeground>
+        <ColorBackground>79</ColorBackground>
+      </FontColor>
+      <right_mouse_menu_name>FUNCTION</right_mouse_menu_name>
+      <id>TEXT12</id>
+      <ajax_opacity>100</ajax_opacity>
+      <ajax_opts_common>
+        <ajax_enable_right_mouse_menu/>
+      </ajax_opts_common>
+      <ajax_layout_left>15</ajax_layout_left>
+      <ajax_opts_layout>
+        <ajax_layout_left_not_empty/>
+        <ajax_layout_top_not_empty/>
+      </ajax_opts_layout>
+      <ajax_layout_top>272</ajax_layout_top>
+    </ajax_label>
+  </controls>
+</panel>

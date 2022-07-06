@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?VersionInfo exeName="LegaSuite.exe" productName="lswb" exeVersion="8.3875.2.389" modelVersion="1.1" ?>
+<panel xmlns="http://www.seagullsoftware.com/schemas/legasuite/panel" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.seagullsoftware.com/schemas/legasuite/panel http://www.seagullsoftware.com/schemas/legasuite/webpagedefinition2_6.xsd">
+  <properties/>
+  <controls>
+    <ajax_check>
+      <ajax_opacity>100</ajax_opacity>
+      <dimensions x="10" y="10" cx="135" cy="24"/>
+      <field_flags>
+        <tab_stop/>
+      </field_flags>
+      <id>CHECKBOX</id>
+      <state_invalid>2</state_invalid>
+      <theme_appearance_name>__Checkbox</theme_appearance_name>
+      <title>@#chk_title@</title>
+      <value_selected>@#chk_checked@</value_selected>
+      <value_unselected>@#chk_unchecked@</value_unselected>
+    </ajax_check>
+  </controls>
+</panel>

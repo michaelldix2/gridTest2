@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?VersionInfo exeName="LegaSuite.exe" productName="lswb" exeVersion="8.3875.2.403" modelVersion="1.1" ?>
+<panel xmlns="http://www.seagullsoftware.com/schemas/legasuite/panel" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.seagullsoftware.com/schemas/legasuite/panel http://www.seagullsoftware.com/schemas/legasuite/webpagedefinition2_6.xsd">
+  <properties/>
+  <controls>
+    <ajax_grid>
+      <ajax_filter_field_length>100</ajax_filter_field_length>
+      <ajax_grid_flags>
+        <ajax_auto_header_height/>
+        <ajax_auto_width/>
+        <ajax_enable_alternate_row_colors/>
+        <ajax_remove_end_plussign/>
+        <ajax_single_click_edit/>
+        <ajax_statusbar_hide/>
+      </ajax_grid_flags>
+      <ajax_grid_selection_behavior>1</ajax_grid_selection_behavior>
+      <ajax_layout_allow_grow_x>2</ajax_layout_allow_grow_x>
+      <ajax_layout_allow_grow_y>2</ajax_layout_allow_grow_y>
+      <ajax_layout_allow_shrink_x>2</ajax_layout_allow_shrink_x>
+      <ajax_layout_allow_shrink_y>2</ajax_layout_allow_shrink_y>
+      <ajax_opts_common/>
+      <dimensions x="10" y="10" cx="250" cy="170"/>
+      <field_flags>
+        <tab_stop/>
+      </field_flags>
+      <FontColorListAlternate>
+        <ColorBackground>43</ColorBackground>
+      </FontColorListAlternate>
+      <general_flags_2>
+        <host_cursor_move/>
+      </general_flags_2>
+      <id>GRID</id>
+      <key_page_down>3</key_page_down>
+      <key_page_up>2</key_page_up>
+      <list_box_flags>
+        <follow_host_cursor_row_position/>
+        <selection_implied/>
+        <selection_multiple/>
+      </list_box_flags>
+      <theme_appearance_name>__Grid</theme_appearance_name>
+      <value_unselected>  </value_unselected>
+      <ajax_grid_column>
+        <ajax_grid_column_flags>
+          <no_sorting/>
+        </ajax_grid_column_flags>
+        <general_flags_1>
+          <cursor_selected/>
+        </general_flags_1>
+        <id>GRIDCOLUMN1</id>
+        <list_column_flags/>
+        <title/>
+      </ajax_grid_column>
+    </ajax_grid>
+    <ajax_button>
+      <ajax_center>1</ajax_center>
+      <ajax_layout_allow_grow_x>2</ajax_layout_allow_grow_x>
+      <ajax_layout_allow_grow_y>2</ajax_layout_allow_grow_y>
+      <ajax_layout_allow_shrink_x>2</ajax_layout_allow_shrink_x>
+      <ajax_layout_allow_shrink_y>2</ajax_layout_allow_shrink_y>
+      <dimensions x="322" y="68" cx="127" cy="42"/>
+      <id>BUTTON</id>
+      <theme_appearance_name>_ListActionButton</theme_appearance_name>
+      <title>Option Button</title>
+    </ajax_button>
+  </controls>
+</panel>

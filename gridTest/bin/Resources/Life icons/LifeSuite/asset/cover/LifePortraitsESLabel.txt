@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='utf-8'?>
+<flow:TextFlow whiteSpaceCollapse='preserve' xmlns:flow='http://ns.adobe.com/textLayout/2008'><flow:p><flow:span>Life Portraits&amp;#174; ES - Straight-Through-Processing</flow:span></flow:p>

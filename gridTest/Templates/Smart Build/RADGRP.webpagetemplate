@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?VersionInfo exeName="LegaSuite.exe" exeVersion="7.2801.1.26" modelVersion="1.0" ?>
+<panel xmlns="http://www.seagullsoftware.com/schemas/legasuite/panel" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.seagullsoftware.com/schemas/legasuite/panel http://www.seagullsoftware.com/schemas/legasuite/paneldefinition3_0.xsd">
+  <properties>
+    <title>Radio button group layout</title>
+    <id>RADGRP</id>
+    <dimensions x="0" y="0" cx="588" cy="336"/>
+    <panel_flags>
+      <update_on_host_change/>
+      <size_independent/>
+      <no_zorder/>
+    </panel_flags>
+    <codepage>1252</codepage>
+  </properties>
+  <menu_bar>
+    <menu>
+      <title>HELP</title>
+      <id>HELP</id>
+    </menu>
+  </menu_bar>
+  <controls>
+    <ajax_group_box>
+      <dimensions x="15" y="20" cx="138" cy="50"/>
+      <title>(ANY)</title>
+      <FontColor>
+        <FontStyleName>Radio.Button</FontStyleName>
+        <ColorBackground>79</ColorBackground>
+      </FontColor>
+      <general_flags_2/>
+      <id>GROUP1</id>
+      <ajax_layout_left>15</ajax_layout_left>
+      <ajax_opts_layout>
+        <ajax_layout_left_not_empty/>
+        <ajax_layout_top_not_empty/>
+      </ajax_opts_layout>
+      <ajax_layout_top>20</ajax_layout_top>
+      <ajax_layout_type>1</ajax_layout_type>
+    </ajax_group_box>
+    <ajax_radio>
+      <dimensions x="24" y="40" cx="57" cy="20"/>
+      <field_flags>
+        <tab_stop/>
+      </field_flags>
+      <host_field>(ANY)</host_field>
+      <value_selected>(ANY)</value_selected>
+      <title>(ANY)</title>
+      <general_flags_2>
+        <visibility_not_present_hide/>
+        <visibility_output_empty_disable/>
+        <visibility_output_data_disable/>
+      </general_flags_2>
+      <FontColor>
+        <FontStyleName>Radio.Button</FontStyleName>
+        <ColorBackground>79</ColorBackground>
+      </FontColor>
+      <id>RADIO1</id>
+      <ajax_opacity>100</ajax_opacity>
+      <ajax_opts_common>
+        <ajax_enable_host_condition/>
+      </ajax_opts_common>
+      <ajax_layout_left>24</ajax_layout_left>
+      <ajax_opts_layout>
+        <ajax_layout_left_not_empty/>
+        <ajax_layout_top_not_empty/>
+      </ajax_opts_layout>
+      <ajax_layout_top>40</ajax_layout_top>
+    </ajax_radio>
+    <ajax_radio>
+      <dimensions x="87" y="40" cx="57" cy="20"/>
+      <field_flags>
+        <tab_stop/>
+      </field_flags>
+      <host_field>(ANY)</host_field>
+      <value_selected>(ANY)</value_selected>
+      <title>(ANY)</title>
+      <general_flags_2>
+        <visibility_not_present_hide/>
+        <visibility_output_empty_disable/>
+        <visibility_output_data_disable/>
+      </general_flags_2>
+      <FontColor>
+        <FontStyleName>Radio.Button</FontStyleName>
+        <ColorBackground>79</ColorBackground>
+      </FontColor>
+      <id>RADIO2</id>
+      <ajax_opacity>100</ajax_opacity>
+      <ajax_opts_common>
+        <ajax_enable_host_condition/>
+      </ajax_opts_common>
+      <ajax_layout_left>87</ajax_layout_left>
+      <ajax_opts_layout>
+        <ajax_layout_left_not_empty/>
+        <ajax_layout_top_not_empty/>
+      </ajax_opts_layout>
+      <ajax_layout_top>40</ajax_layout_top>
+    </ajax_radio>
+  </controls>
+</panel>

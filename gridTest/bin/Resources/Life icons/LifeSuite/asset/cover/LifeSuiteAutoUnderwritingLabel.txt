@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='utf-8'?>
+<flow:TextFlow whiteSpaceCollapse='preserve' xmlns:flow='http://ns.adobe.com/textLayout/2008'><flow:p tabStops='alignment:start, position:19; alignment:start, position:216'><flow:span>LifeSuite&amp;#153; - Automated Underwriting</flow:span></flow:p>

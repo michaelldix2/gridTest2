@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?VersionInfo exeName="LegaSuite.exe" productName="lswb" exeVersion="8.3875.2.403" modelVersion="1.1" ?>
+<panel xmlns="http://www.seagullsoftware.com/schemas/legasuite/panel" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.seagullsoftware.com/schemas/legasuite/panel http://www.seagullsoftware.com/schemas/legasuite/webpagedefinition2_6.xsd">
+  <properties/>
+  <controls>
+    <ajax_container_list>
+      <ajax_grid_flags>
+        <ajax_auto_header_height/>
+        <ajax_complex_header/>
+        <ajax_remove_end_plussign/>
+        <ajax_rows_use_all_available_height/>
+        <ajax_statusbar_hide/>
+      </ajax_grid_flags>
+      <ajax_grid_selection_behavior>1</ajax_grid_selection_behavior>
+      <ajax_selection>2</ajax_selection>
+      <dimensions x="13" y="13" cx="240" cy="211"/>
+      <header_height>20</header_height>
+      <id>CONTAINER_LIST</id>
+      <list_box_flags>
+        <selection_implied/>
+      </list_box_flags>
+      <theme_appearance_name>_DynamicListPaging</theme_appearance_name>
+      <value_unselected> </value_unselected>
+      <ajax_container_list_column>
+        <ajax_container_list_header_cell>
+          <ajax_layout_type>8</ajax_layout_type>
+          <controls>
+            <ajax_label>
+              <ajax_opacity>100</ajax_opacity>
+              <dimensions x="0" y="0" cx="100" cy="16"/>
+              <id>LABELHEADER1</id>
+              <theme_appearance_name>_DynamicContentsLabel</theme_appearance_name>
+              <title>Header label</title>
+            </ajax_label>
+          </controls>
+        </ajax_container_list_header_cell>
+        <ajax_layout_flex>1</ajax_layout_flex>
+        <ajax_layout_type>8</ajax_layout_type>
+        <controls>
+          <ajax_label>
+            <ajax_opacity>100</ajax_opacity>
+            <dimensions x="0" y="0" cx="100" cy="20"/>
+            <id>LABELDATA</id>
+            <theme_appearance_name>_DynamicContentsLabel</theme_appearance_name>
+            <title>Line label</title>
+          </ajax_label>
+          <ajax_text>
+            <ajax_opacity>100</ajax_opacity>
+            <ajax_opts_common>
+              <ajax_enable_host_condition/>
+              <ajax_visibility_not_present_exclude/>
+            </ajax_opts_common>
+            <dimensions x="121" y="0" cx="120" cy="20"/>
+            <field_flags>
+              <tab_stop/>
+            </field_flags>
+            <field_length length="0" field_type="0" check_direct="0"/>
+            <general_flags_1>
+              <output_when_read_only/>
+            </general_flags_1>
+            <general_flags_2>
+              <visibility_output_data_disable/>
+              <visibility_output_empty_disable/>
+            </general_flags_2>
+            <id>TEXT1</id>
+            <theme_appearance_name>_DynamicInputField</theme_appearance_name>
+          </ajax_text>
+        </controls>
+        <id>CONTAINER_LIST_COLUMN</id>
+      </ajax_container_list_column>
+    </ajax_container_list>
+    <ajax_button>
+      <ajax_center>1</ajax_center>
+      <dimensions x="322" y="68" cx="143" cy="37"/>
+      <id>BUTTON</id>
+      <theme_appearance_name>_ListActionButton</theme_appearance_name>
+      <title>Option Button</title>
+    </ajax_button>
+  </controls>
+</panel>

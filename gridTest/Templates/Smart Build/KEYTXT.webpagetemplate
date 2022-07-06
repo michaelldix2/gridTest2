@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?VersionInfo exeName="LegaSuite.exe" exeVersion="7.2801.1.26" modelVersion="1.0" ?>
+<panel xmlns="http://www.seagullsoftware.com/schemas/legasuite/panel" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.seagullsoftware.com/schemas/legasuite/panel http://www.seagullsoftware.com/schemas/legasuite/paneldefinition3_0.xsd">
+  <properties>
+    <title>Key names</title>
+    <id>KEYTXT</id>
+    <dimensions x="0" y="0" cx="588" cy="336"/>
+    <panel_flags>
+      <update_on_host_change/>
+      <size_independent/>
+      <no_zorder/>
+      <no_panel_host/>
+    </panel_flags>
+    <codepage>1252</codepage>
+  </properties>
+  <menu_bar/>
+  <controls>
+    <ajax_button>
+      <dimensions x="15" y="24" cx="81" cy="26"/>
+      <field_flags>
+        <tab_stop/>
+      </field_flags>
+      <general_flags_1/>
+      <send_key>1</send_key>
+      <general_flags_2>
+        <state_dependent/>
+      </general_flags_2>
+      <title>ENTER</title>
+      <id>BUTTON1</id>
+      <FontColor>
+        <FontStyleName>Text.SubfileOptions</FontStyleName>
+      </FontColor>
+      <ajax_opacity>100</ajax_opacity>
+      <ajax_layout_left>15</ajax_layout_left>
+      <ajax_opts_layout>
+        <ajax_layout_left_not_empty/>
+        <ajax_layout_top_not_empty/>
+      </ajax_opts_layout>
+      <ajax_layout_top>24</ajax_layout_top>
+      <ajax_center>1</ajax_center>
+    </ajax_button>
+    <ajax_button>
+      <dimensions x="15" y="55" cx="81" cy="26"/>
+      <field_flags>
+        <tab_stop/>
+      </field_flags>
+      <general_flags_1/>
+      <send_key>2</send_key>
+      <general_flags_2>
+        <state_dependent/>
+      </general_flags_2>
+      <title>PGUP</title>
+      <id>BUTTON2</id>
+      <FontColor>
+        <FontStyleName>Text.SubfileOptions</FontStyleName>
+      </FontColor>
+      <ajax_opacity>100</ajax_opacity>
+      <ajax_layout_left>15</ajax_layout_left>
+      <ajax_opts_layout>
+        <ajax_layout_left_not_empty/>
+        <ajax_layout_top_not_empty/>
+      </ajax_opts_layout>
+      <ajax_layout_top>52</ajax_layout_top>
+      <ajax_center>1</ajax_center>
+    </ajax_button>
+    <ajax_button>
+      <dimensions x="15" y="86" cx="81" cy="26"/>
+      <field_flags>
+        <tab_stop/>
+      </field_flags>
+      <general_flags_1/>
+      <send_key>3</send_key>
+      <general_flags_2>
+        <state_dependent/>
+      </general_flags_2>
+      <title>PGDN</title>
+      <id>BUTTON3</id>
+      <FontColor>
+        <FontStyleName>Text.SubfileOptions</FontStyleName>
+      </FontColor>
+      <ajax_opacity>100</ajax_opacity>
+      <ajax_layout_left>15</ajax_layout_left>
+      <ajax_opts_layout>
+        <ajax_layout_left_not_empty/>
+        <ajax_layout_top_not_empty/>
+      </ajax_opts_layout>
+      <ajax_layout_top>80</ajax_layout_top>
+      <ajax_center>1</ajax_center>
+    </ajax_button>
+  </controls>
+</panel>

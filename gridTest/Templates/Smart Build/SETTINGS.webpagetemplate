@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?><?VersionInfo exeName="LegaSuite.exe" exeVersion="7.2543.1.23" modelVersion="1.0" ?><panel xmlns="http://www.seagullsoftware.com/schemas/legasuite/panel" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.seagullsoftware.com/schemas/legasuite/panel http://www.seagullsoftware.com/schemas/legasuite/paneldefinition3_0.xsd">
+  <properties>
+    <title>Best Guess Settings</title>
+    <id>SETTINGS</id>
+    <dimensions x="0" y="0" cx="588" cy="337"/>
+    <panel_flags>
+      <update_on_host_change/>
+      <size_independent/>
+      <no_zorder/>
+    </panel_flags>
+    <codepage>1252</codepage>
+  </properties>
+  <menu_bar/>
+  <controls>
+    <ajax_label>
+      <dimensions x="18" y="12" cx="246" cy="16"/>
+      <title>MaxListBoxHeaderLines=2</title>
+      <FontColor>
+        <FontStyleName>Arial 10 Bold</FontStyleName>
+        <ColorBackground>50</ColorBackground>
+      </FontColor>
+      <id>TEXT1</id>
+      <ajax_opacity>100</ajax_opacity>
+      <ajax_layout_left>18</ajax_layout_left>
+      <ajax_opts_layout>
+        <ajax_layout_left_not_empty/>
+        <ajax_layout_top_not_empty/>
+      </ajax_opts_layout>
+      <ajax_layout_top>12</ajax_layout_top>
+    </ajax_label>
+    <ajax_label>
+      <dimensions x="18" y="34" cx="246" cy="16"/>
+      <title>MaxSelectionColumnWidth=3</title>
+      <id>TEXT2</id>
+      <FontColor>
+        <ColorBackground>50</ColorBackground>
+      </FontColor>
+      <ajax_opacity>100</ajax_opacity>
+      <ajax_layout_left>18</ajax_layout_left>
+      <ajax_opts_layout>
+        <ajax_layout_left_not_empty/>
+        <ajax_layout_top_not_empty/>
+      </ajax_opts_layout>
+      <ajax_layout_top>34</ajax_layout_top>
+    </ajax_label>
+    <ajax_label>
+      <dimensions x="18" y="56" cx="246" cy="16"/>
+      <title>NoiseChars=.: ?|</title>
+      <id>TEXT3</id>
+      <FontColor>
+        <ColorBackground>50</ColorBackground>
+      </FontColor>
+      <ajax_opacity>100</ajax_opacity>
+      <ajax_layout_left>18</ajax_layout_left>
+      <ajax_opts_layout>
+        <ajax_layout_left_not_empty/>
+        <ajax_layout_top_not_empty/>
+      </ajax_opts_layout>
+      <ajax_layout_top>56</ajax_layout_top>
+    </ajax_label>
+    <ajax_label>
+      <dimensions x="18" y="78" cx="246" cy="16"/>
+      <title>OptionSeparatorChars==</title>
+      <id>TEXT4</id>
+      <FontColor>
+        <ColorBackground>50</ColorBackground>
+      </FontColor>
+      <ajax_opacity>100</ajax_opacity>
+      <ajax_layout_left>18</ajax_layout_left>
+      <ajax_opts_layout>
+        <ajax_layout_left_not_empty/>
+        <ajax_layout_top_not_empty/>
+      </ajax_opts_layout>
+      <ajax_layout_top>78</ajax_layout_top>
+    </ajax_label>
+    <ajax_label>
+      <dimensions x="18" y="100" cx="246" cy="16"/>
+      <title>OptionListSeparatorChars=,/</title>
+      <id>TEXT5</id>
+      <FontColor>
+        <ColorBackground>50</ColorBackground>
+      </FontColor>
+      <ajax_opacity>100</ajax_opacity>
+      <ajax_layout_left>18</ajax_layout_left>
+      <ajax_opts_layout>
+        <ajax_layout_left_not_empty/>
+        <ajax_layout_top_not_empty/>
+      </ajax_opts_layout>
+      <ajax_layout_top>100</ajax_layout_top>
+    </ajax_label>
+    <ajax_label>
+      <dimensions x="18" y="122" cx="246" cy="16"/>
+      <title>TemplateFieldMapper=TFLDMAP.TXT</title>
+      <FontColor>
+        <FontStyleName>Arial 10 Bold</FontStyleName>
+        <ColorBackground>50</ColorBackground>
+      </FontColor>
+      <id>TEXT6</id>
+      <ajax_opacity>100</ajax_opacity>
+      <ajax_layout_left>18</ajax_layout_left>
+      <ajax_opts_layout>
+        <ajax_layout_left_not_empty/>
+        <ajax_layout_top_not_empty/>
+      </ajax_opts_layout>
+      <ajax_layout_top>122</ajax_layout_top>
+    </ajax_label>
+    <ajax_label>
+      <dimensions x="18" y="144" cx="246" cy="16"/>
+      <title>AverageCharWidthLength=1</title>
+      <FontColor>
+        <FontStyleName>Arial 10 Bold</FontStyleName>
+        <ColorBackground>50</ColorBackground>
+      </FontColor>
+      <id>TEXT7</id>
+      <ajax_opacity>100</ajax_opacity>
+      <ajax_layout_left>18</ajax_layout_left>
+      <ajax_opts_layout>
+        <ajax_layout_left_not_empty/>
+        <ajax_layout_top_not_empty/>
+      </ajax_opts_layout>
+      <ajax_layout_top>144</ajax_layout_top>
+    </ajax_label>
+  </controls>
+</panel>
